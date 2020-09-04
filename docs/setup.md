@@ -1,24 +1,32 @@
 # Setup
 
+
 ## General
+
 
 ## Pages
 
-### About & Contact pages
-Add "About us" and "Contact us" information pages to your store
+### Create Custom pages
+Our themes come with special "pre-built layouts for common pages such as _Contact, About, FAQs, Legal, Press_. Follow the below steps to set up your page.
 
-If you have information that you want your customers to know about that won't change often, for example, details about your organization or the contact information for your store, then you can create pages for your store to give that content a permanent location.
-
+__Step 1__: Create the page
 1. From your Shopify admin, go to [Online Store > Pages](https://www.shopify.com/admin/pages?ref=OpenThinking).
 2. Click `Add page`
-3. In the webpage editor, enter a Title and Content in the text boxes provided.
-4. Be descriptive and clear when choosing your webpage title. The webpage title is displayed in the tab or title bar of browsers. It is also used as the title in search engine results. Learn more about website SEO.
-5. Click Save.
+3. Insert a Title and Short description for your page (used mainly for the SEO)
+5. Select a template for your page: `page.about`, `page.contact` etc.
+6. Click `Save`.
 
->  Even if your new webpage is visible, it won't appear in your online store navigation automatically. You'll need to add a link to it in a menu.
+__Step 2__: Add the content
+1. From your Shopify admin, go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking).
+2. Click `Customize`
+3. Navitage to the page you've just created (e.g. About)
+4. In the `Sections` bar, on the left, click on `Name page` (e.g. About page)
+5. Enter your info
+6. Click `Save`
 
+>  ⚠️ Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
-### Legal
+### Legal pages
 Display your store policies and other legal information. 
 
 Adding store policies automatically adds a link to them in your checkout pages. However, creating new pages for your legal policies and linking them to your footer ensures that customers can view legal policies on any page of your online store.
