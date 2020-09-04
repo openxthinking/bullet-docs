@@ -6,9 +6,11 @@ Legend:
 
   - _Main menu_ = is the top/header menu of your website.
   - _Footer menu_ = is the menu you find in the footer of your website.
-  - _Mobile menu_ = is the menu visible on mobile devices. (must be created manually by you)
+  - _Mobile menu_ = is the menu used on mobile devices. (must be created manually)
 
-### Create mobile menu
+### Mobile menu
+The mobile menu must be created manually, here's how:
+
 1. From your Shopify admin, go to [Online store > Navigation](https://www.shopify.com/admin/menus?ref=OpenThinking).
 2. Click `Add menu`
     - in "Title" type `Mobile menu`
@@ -18,7 +20,7 @@ Legend:
 
 
 ## Header
-To personalize your website's header, chose a Logo define a Menu etc. Follow these steps:
+To personalize your website's header, chose a logo, define a menu etc. Follow these steps:
 
 1. From your Shopify admin, go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking).
 2. Click `Customize`
@@ -56,10 +58,10 @@ __Step 2__: Add the content
 5. Enter your info
 6. Click `Save`
 
->  ⚠️ Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
+?> Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
 ### Legal page
-> ⚠️ By default Shopify offers a default section for legal pages [read more](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies#add-store-policies-to-display-legal-information). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the [steps above](#create).
+?> By default Shopify offers a default section for legal pages [read more](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the [steps above](#create).
 
 ## Required Apps
 
@@ -67,4 +69,4 @@ Our themes by default use these apps to enhance the theme's functioanlity. Apps 
  
 - [FREE] "Shopify Product Reviews" app. Install it from [HERE](https://apps.shopify.com/product-reviews)
 
-> ⚠️ _Please check the documentation of your theme for other required apps_
+?> _Please check the documentation of your theme for other required apps_
