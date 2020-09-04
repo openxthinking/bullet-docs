@@ -7,6 +7,6 @@ Here's how to install our themes in 4 easy steps:
 
 2. Download the theme on your computer.
 
-3. _Log in_ to your _Shopify Admin_ and go into `Online Store > Themes`
+3. _Log in_ to your _Shopify Admin_ and go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking)
 
 4. Scroll to `Theme library` and click `Upload theme` now select the ZIP file you just downloaded > and publish it as your `'Live'` theme. 
