@@ -27,7 +27,7 @@ To personalize your website's header, chose a Logo define a Menu etc. Follow the
 6. Click `Save`
 
 ## Footer
-To personalize your website's footer, chose a links add info etc. Follow these steps:
+To personalize your website's footer, chose links, add info etc. Follow these steps:
 
 1. From your Shopify admin, go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking).
 2. Click `Customize`
@@ -59,7 +59,7 @@ __Step 2__: Add the content
 >  ⚠️ Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
 ### Legal page
-⚠️ By default Shopify offers a default section for legal pages [read more](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies#add-store-policies-to-display-legal-information). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the steps above.
+> ⚠️ By default Shopify offers a default section for legal pages [read more](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies#add-store-policies-to-display-legal-information). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the [steps above](#create).
 
 ## Required Apps
 
