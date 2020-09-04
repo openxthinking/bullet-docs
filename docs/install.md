@@ -1,12 +1,9 @@
-# How to Install a New Theme 
+# Theme installation
 
-Here's how to install our themes in 4 easy steps:
+Themes can be installed through the Shopify Admin panel.
 
-1. After you complete your payment, a download link will be generated from which you can download a ZIP file with your new theme. 
-    - An email will also be sent to the email your provided at checkout containing the download link.
-
-2. Download the theme on your computer.
-
-3. _Log in_ to your _Shopify Admin_ and go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking)
-
-4. Scroll to `Theme library` and click `Upload theme` now select the ZIP file you just downloaded > and publish it as your `'Live'` theme. 
+1. Download the `.zip file` (from the download link you recieved in your email or in your directly from profile section)
+2. Go to [Shopify admin](https://www.shopify.com/admin/themes?ref=OpenThinking) > scroll to `Theme library` 
+3. Click `Upload theme` > `Browse`, and then browse for theme file on your computer
+4. Click on `Upload now` to start the install process
+5. Publish it as your `'Live'` theme
