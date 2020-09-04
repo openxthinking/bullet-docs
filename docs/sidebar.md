@@ -1,0 +1,10 @@
+- [Installation](install)
+- [Setup](setup)
+- [Customization](custom)
+- [Video tutorials](video)
+- **Changelog**
+- [Changelog](changelog)
+- **Links**
+- [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://example.com/)
+- [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://example.com/themes)
+- [![Support](https://icongr.am/feather/message-square.svg?size=16&color=808080)Support](https://example.com/support)
