@@ -1,18 +1,6 @@
 # Introduction
 
-Welcome into the _Bullet_ documentation section! All you need to install and setup your _Bullet_ theme is here.
-
-## Theme Help Center
-
-_In case you still have issues or your answers aren't answered in this Docs, check the links below._
-
-- [FAQ - Popular answers about setting up and customizing your themes](https://github.com/openxthinking/master-docs)
-- [Shopify Questions - Platform related questions for common customizations](https://github.com/openxthinking/master-docs)
-
-## Contact & Support
-
-- Create a [GitHub issue](https://github.com/openxthinking/----/issues) for bug reports, feature requests, or questions.
-- You can also open a [ticket](https://----.com/contact) for a quicker response.
+👋 In these docs you can find answers to common questions on how to set up your Shopify store. If you've _theme_ specific questions, check your _theme_ documentation.
 
 ## Contribution
 
@@ -20,4 +8,4 @@ _In case you still have issues or your answers aren't answered in this Docs, che
 - Or submit a GitHub issue.
 ---
 
-Copyright (c) OpenThinking
+copyright &copy; OpenThinking
