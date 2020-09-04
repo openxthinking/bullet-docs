@@ -1,4 +1,4 @@
-# Installation
+# How to Install a New Theme 
 
 Here's how to install our themes in 4 easy steps:
 
