@@ -27,6 +27,7 @@ __Step 2__: Add the content
 ### Legal page
 ?> Shopify offers a default section for legal pages [(read more)](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the [steps above](#create).
 
+
 ## Menus
 After you've created your pages it's time to add them to your website navigation.
 
@@ -45,24 +46,6 @@ The mobile menu must be created manually, here's how:
     - in "Handle" type `mobile-menu`
 3. Click `Add menu item` then `Add` to add your links
 4. Click `Save menu`
-
-## Menus
-After you've created your pages it's time to add them to your website navigation.
-
-Legend:
-
-  - _Main menu_ = is the top/header menu of your website.
-  - _Footer menu_ = is the menu you find in the footer of your website.
-  - _Mobile menu_ = is the menu used on mobile devices. ⚠️ (must be created manually)
-
-### Mobile menu
-The mobile menu must be created manually, here's how:
-
-1. From your Shopify admin, go to [Online store > Preferences](https://www.shopify.com/admin/online_store/preferences?ref=OpenThinking).
-1. Enter your info store `Name` and `meta description`
-1. Upload your `Social sharing image`
-1. Add your `Google Analytics` code
-1. Click `Save`
 
 
 ## Required Apps
