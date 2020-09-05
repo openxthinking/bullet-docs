@@ -21,10 +21,10 @@ The theme editor includes a theme preview and a toolbar that you can use to add 
 The theme editor toolbar (on the left) is divided into `Sections` and `Theme settings`.
 
 <!-- tabs:start -->
-**Description**
+#### **Description**
 - You can use `sections` to modify the content and layout of the different pages on your store. 
 - You can use `theme settings` to customize your store's fonts and colors, and make changes to your social media links and checkout settings.
-**Images**
+#### **Images**
 ![alt text](https://github.com/openxthinking/master-docs/blob/master/docs/media/custom-editor-sections.png?raw=true)
 ![alt text](https://github.com/openxthinking/master-docs/blob/master/docs/media/custom-editor-Theme_settings.png?raw=true)
 <!-- tabs:end -->
