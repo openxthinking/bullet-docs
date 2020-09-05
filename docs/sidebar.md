@@ -2,7 +2,7 @@
 - [2. Setup](setup)
 - [3. Customization](custom)
 - [4. Extra](extra)
-- [5. Video tutorials](video)
+- [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
 - **Links**
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://example.com/)
 - [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://example.com/themes)
