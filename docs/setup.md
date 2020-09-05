@@ -24,6 +24,8 @@ __Step 2__: Add the content
 
 ?> Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#pages)
+
 ### Legal page
 ?> Shopify offers a default section for legal pages [(read more)](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/sell-in-japan/japan-legal-policies). But if you want to use our special "pre-built layout for Legal pages, you need to create a new page by following the [steps above](#create).
 
@@ -47,6 +49,8 @@ The mobile menu must be created manually, here's how:
 3. Click `Add menu item` then `Add` to add your links
 4. Click `Save menu`
 
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#menu)
+
 
 ## Required Apps
 Our themes by default use apps to enhance their functioanlity. Apps must be installed manually.
@@ -56,6 +60,8 @@ Our themes by default use apps to enhance their functioanlity. Apps must be inst
 - <mark>[REQUIRED]</mark> "Shopify Product Reviews" app. Install it from [HERE](https://apps.shopify.com/product-reviews)
 
 ?> _Please check the documentation of your theme to see if it requires other apps_
+
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#app-installation)
 
 
 ## External links
