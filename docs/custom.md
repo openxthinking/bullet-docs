@@ -80,9 +80,10 @@ You can edit your theme settings to customize your online store's content, layou
 #### Custom Code
 - If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom CSS/JS` section for your custom CSS & JS code.
 
+## Pages
 
 
-## Homepage settings
+### Homepage settings
 To populate your Homepage with content follow the steps below
 
 1. We're in the [Theme editor](#launch-the-editor)
@@ -94,8 +95,8 @@ To populate your Homepage with content follow the steps below
 
 
 
-## Other pages settings
-Setting up the other pages is easy.
+### Other pages settings
+Setting up the other pages is as easy.
 
 1. We're in the [Theme editor](#launch-the-editor)
 1. Make sure you're in the right place by checking the `"NAME" page` from the top bar drop-down menu
