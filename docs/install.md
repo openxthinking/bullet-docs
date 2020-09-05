@@ -10,4 +10,4 @@ Themes can be installed through the [Shopify Admin panel](https://www.shopify.co
 1. To make the theme, you just installed, your default: Click on `Actions > Publish` 
 1. Click `Publish`
 
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=50>](video)
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#theme-installation)
