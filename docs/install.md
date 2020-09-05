@@ -9,3 +9,5 @@ Themes can be installed through the [Shopify Admin panel](https://www.shopify.co
 1. Click on `Upload now` to start the install process
 1. To make the theme, you just installed, your default: Click on `Actions > Publish` 
 1. Click `Publish`
+
+[![Video](https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg)](video)
