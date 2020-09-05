@@ -24,3 +24,4 @@ The theme editor toolbar (on the left) is divided into `Sections` and `Theme set
 - You can use `theme settings` to customize your store's fonts and colors, and make changes to your social media links and checkout settings.
 
 ?> When you first open the theme editor, the settings for the home page are shown. To access the settings for other pages, select the page type from the top bar drop-down menu:
+
