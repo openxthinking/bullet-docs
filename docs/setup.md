@@ -1,4 +1,5 @@
 # Setup
+Here's a quick setup you need to do before moving to the customization of your website.
 
 ## Pages
 The first thing you need to is to create your pages.
@@ -45,12 +46,38 @@ The mobile menu must be created manually, here's how:
 3. Click `Add menu item` then `Add` to add your links
 4. Click `Save menu`
 
+## Menus
+After you've created your pages it's time to add them to your website navigation.
+
+Legend:
+
+  - _Main menu_ = is the top/header menu of your website.
+  - _Footer menu_ = is the menu you find in the footer of your website.
+  - _Mobile menu_ = is the menu used on mobile devices. ⚠️ (must be created manually)
+
+### Mobile menu
+The mobile menu must be created manually, here's how:
+
+1. From your Shopify admin, go to [Online store > Preferences](https://www.shopify.com/admin/online_store/preferences?ref=OpenThinking).
+1. Enter your info store `Name` and `meta description`
+1. Upload your `Social sharing image`
+1. Add your `Google Analytics` code
+1. Click `Save`
+
 
 ## Required Apps
-Our themes by default use apps to enhance the their functioanlity. Apps must be installed manually.
+Our themes by default use apps to enhance their functioanlity. Apps must be installed manually.
 
-The apps are already integrated with your theme, after the installation you do not have to anything else.
+⚠️ The apps are already integrated with your theme, after the installation you do not have to do anything else.
  
 - <mark>[REQUIRED]</mark> "Shopify Product Reviews" app. Install it from [HERE](https://apps.shopify.com/product-reviews)
 
 ?> _Please check the documentation of your theme to see if it requires other apps_
+
+--- 
+
+## Useful links
+
+- [Initial Shopify setup](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup)
+- [How to add new product](https://help.shopify.com/en/manual/products/add-update-products#add-a-new-product)
+- [Payments on Shopify](https://help.shopify.com/en/manual/payments)
