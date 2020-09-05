@@ -1,6 +1,6 @@
-- [Installation](install)
-- [Setup](setup)
-- [Customization](custom)
+- [1. Installation](install)
+- [2. Setup](setup)
+- [3. Customization](custom)
 - **Links**
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://example.com/)
 - [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://example.com/themes)
