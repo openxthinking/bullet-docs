@@ -83,4 +83,23 @@ You can edit your theme settings to customize your online store's content, layou
 
 
 ## Homepage settings
+To populate your Homepage with content follow the steps below
 
+1. We're in the [Theme editor](#launch-the-editor)
+1. Make sure you're in `Home page` from the top bar drop-down menu
+1. On the left in the `Sections`
+1. Click `Add section` 
+1. Select one of the `Sections` then click `Add`
+1. Repeat until you're happy with how your Home page looks
+
+
+
+## Other pages settings
+Setting up the other pages is easy.
+
+1. We're in the [Theme editor](#launch-the-editor)
+1. Make sure you're in the right place by checking the `"NAME" page` from the top bar drop-down menu
+1. On the left in the `Sections`
+1. Look for `"NAME" page` (e.g. Contact page) then `Click`
+1. Edit the content
+1. Click `Save` (top right button)
