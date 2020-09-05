@@ -57,9 +57,8 @@ Our themes by default use apps to enhance their functioanlity. Apps must be inst
 
 ?> _Please check the documentation of your theme to see if it requires other apps_
 
---- 
 
-### External links
+## External links
 
 - [Initial Shopify setup](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup)
 - [How to add new product](https://help.shopify.com/en/manual/products/add-update-products#add-a-new-product)
