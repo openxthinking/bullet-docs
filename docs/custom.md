@@ -30,10 +30,14 @@ The theme editor toolbar (on the left) is divided into `Sections` and `Theme set
 
 ## Sections
 
+
 ### Header
 #### Logo
-- __Text logo__: Type the name of your site. (_if an image is selected this is automatically overwritten_)
-- __Image logo__: Upload logo for your site. The logo should be in a SVG, PNG, or JPEG/JPG formats.
+- __Text logo__: The name of your site. (_if an image logo is selected this is automatically overwritten_)
+    - __Font__: You can chose the font of your Text logo.
+    - __Font size__: You can select the size of your Text logo.
+- __Image logo__: Logo for your site. Horizontal images are prefered. The logo should be in a SVG, PNG, or JPEG/JPG formats.
+    - __Image height__: The size in height of your Image logo.
 
 #### Menu
 - __Desktop__: Select the menu for the desktop version
@@ -42,4 +46,42 @@ The theme editor toolbar (on the left) is divided into `Sections` and `Theme set
 #### Others
 Here you can tweak other settings of the theme.
 
+
+
 ### Footer
+__Menu__: Select the menu for the desktop version
+__Privacy & Terms__: Select the links pointing to the Legal pages you created in the Setup section.
+
+
+## Theme settings
+Theme settings can vary from theme to theme. Here's a list of common settings you can find in most of OpenThinking's themes.
+
+
+
+#### Colors
+In this section you can change all the colors of your site, such as page background, text color, inputs etc.
+
+#### Typography
+Here you can change the typography of your site.
+
+#### Favicon
+Favicons are what you see in browser tabs, bookmark bars. Favicons should be SQARE and at least 512x512 px.
+
+#### Social media
+Social media is for your sochial media profiles. These usually show inside the footer or other parts of the theme.
+
+#### Side cart / Top cart
+Depending on your theme you can have a Side or Top cart. This is where you can personalize the look and feel of your Shopping side/top cart.
+
+#### Newsletter popup
+This is a built-in Newsletter popup. You can customize the feel and looks of the popup. The popup fires when the customer tries to leave the page from above, doing so it's not annyoing nor invasive for the user.
+
+#### Cookies
+This is a built-in Cookie notice popup. You can customize the feel and looks of the popup.
+
+#### Noticer
+The Noticer is an announcement bar which allows merchants to display custom updates and promote discounts. When added, this static section can be displayed on the homepage or on all pages.
+
+#### Custom Code
+If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom CSS/JS` section for your custom CSS & JS code.
+
