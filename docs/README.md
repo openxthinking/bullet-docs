@@ -1,5 +1,3 @@
-# Welcome
-
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/waving-hand-sign_1f44b.png" width=60 alt="Waving hand">
 
 - 🚀 To __install, setup & customize__ your theme follow the __3 steps guide__ in the sidebar on the left
