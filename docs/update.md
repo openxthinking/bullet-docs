@@ -37,4 +37,4 @@ Until then here's a guide on how to do it manually.
 1. `Save` then Go back to `Themes`
 1. Publish theme: Click on `Actions > Publish` then `Publish`
 
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#theme-update)
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#update-theme)
