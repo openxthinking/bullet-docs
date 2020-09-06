@@ -4,10 +4,10 @@ Here's how to customize the basic look and feel of your online store, you can cu
 ## Backup
 ?> Before you customize your theme, it's best practice to duplicate your theme to create a backup copy. This makes it easy to discard your changes and start again if you need to.
 
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#theme-backup)
-
 1. From your Shopify admin, go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking).
 1. Click `Actions` then `Duplicate`
+
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#theme-backup)
 
 ## Intro
 The theme editor includes a theme preview and a toolbar that you can use to add and remove content, and to make changes to your settings.
