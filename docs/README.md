@@ -1,6 +1,6 @@
 # OpenThinking
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/waving-hand-sign_1f44b.png" width=150 alt="Waving hand">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/waving-hand-sign_1f44b.png" width=100 alt="Waving hand">
 
 - 🚀 To _install, setup & customize_ your theme follow the __3 steps guide__ in the sidebar on the left.
 - 🎯 If you already installed and setup your theme and still have questions, visit the [FAQ](#faq) section.
