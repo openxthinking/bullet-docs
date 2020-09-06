@@ -1,6 +1,4 @@
-
-
-# "Theme name" [Shopify](https://example.com/?ref=ghrepo) theme by [_OpenThinking_](https://example.com/?ref=ghrepo)
+# [_OpenThinking_](https://example.com/?ref=ghrepo)
 
 
 [![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Download "Theme name"](https://example.com/?ref=ghrepo)
