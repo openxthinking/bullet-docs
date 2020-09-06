@@ -3,7 +3,7 @@
 ## Get started
 
 - 🚀 To __install, setup & customize__ your theme follow the __3 steps guide__ in the sidebar on the left
-- 🎯 We answer questions in the [FAQ section](#faq)
+- 🎯 We answer questions in the [FAQ section](https://openxthinking.github.io/master-docs/#/faq)
 
 ## Contact & support
 
