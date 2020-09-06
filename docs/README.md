@@ -2,18 +2,15 @@
 
 ## Get started
 
-- 🚀 To __install, setup & customize__ your theme follow the __3 steps guide__ in the sidebar on the left
-- 🎯 We answer questions in the [FAQ section](https://openxthinking.github.io/master-docs/#/faq)
+- 🚀 To [1. install](install), [2. setup](setup) & [3. customize](custom) your theme follow the __3 steps guide__ in the sidebar on the left 👍
+- 🎯 We answer questions in the [FAQ section](faq).
+- 📗 We share bytes of codes in the [Snippets section](snippets).
+- 📽 We have (some) illustrative video tutorials in the [Video section](video).
 
 ## Contact & support
 
 - Create a [GitHub issue](https://github.com/openxthinking/master-docs/issues) for bug reports, feature requests, or questions.
 - You can also open a [ticket](https://----.com/contact).
-
-## Contribution
-
-- If you want to contribute and better this docs, please feel free to send a "Pull requests".
-- Or submit a GitHub issue.
 
 ---
 &copy; 2020, _OpenThinking_
