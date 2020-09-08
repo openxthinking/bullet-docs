@@ -10,7 +10,7 @@
 ## Contact & support
 
 - Create a [GitHub issue](https://github.com/openxthinking/master-docs/issues) for bug reports, feature requests, or questions.
-- You can also open a [ticket](https://----.com/contact).
+- You can also open a [ticket](https://openthinking.net/support/?ref=ghsb).
 
 ---
 &copy; 2020, _OpenThinking_
