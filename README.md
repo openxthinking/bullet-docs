@@ -1,8 +1,6 @@
 # [_OpenThinking_](https://example.com/?ref=ghrepo)
 
----
 Create professional looking websites in minutes. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions. 
-
 
 ## OpenThinking Shopify themes built for long-standing businesses.
 - Fast and lightweight
