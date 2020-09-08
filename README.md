@@ -1,10 +1,15 @@
 # [_OpenThinking_](https://example.com/?ref=ghrepo)
 
-
-[![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Download "Theme name"](https://example.com/?ref=ghrepo)
-
 ---
-Sell more on Shopify. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions.
+Create professional looking websites in minutes. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions. 
+
+
+## OpenThinking Shopify themes built for long-standing businesses.
+- Fast and lightweight
+- Flexible and easy to use
+- Easy setup and sleek designs
+- Reliable updates
+- Quality code and full support
 
 [![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse our Shopify themes](https://example.com/?ref=ghrepo)
 
