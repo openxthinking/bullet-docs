@@ -12,7 +12,7 @@ Until then here's a guide on how to do it manually.
 ## Update
 
 #### step 1. Download new theme version from OpenThinking
-1. [Log in](https://example.com/account) into your account
+1. [Log in](https://openthinking.net/account/?ref=ghsb) into your account
 1. Go to ` View Details and Downloads` scroll to `Products`
 1. Download the latest version `(.zip)`
 
