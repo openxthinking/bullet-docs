@@ -1,4 +1,4 @@
-# [_OpenThinking_](https://example.com/?ref=ghrepo)
+# [_OpenThinking_](https://openthinking.net/?ref=ghsb)
 
 Create professional looking websites in minutes. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions. 
 
@@ -9,7 +9,7 @@ Create professional looking websites in minutes. Build your brand and increase s
 - Reliable updates
 - Quality code and full support
 
-[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse our Shopify themes](https://example.com/?ref=ghrepo)
+[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse our Shopify themes](https://openthinking.net/?ref=ghsb)
 
 ## About _OpenThinking_
 OpenThinking is a small studio trusted by hundreds of businesses worldwide. We create impact with beautiful, responsive, minimalist Shopify themes.
@@ -43,4 +43,4 @@ OpenThinking is a small studio trusted by hundreds of businesses worldwide. We c
 - Clean minimal code
 
 ---
-[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse all our Shopify themes](https://example.com/?ref=ghrepo)
+[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse all our Shopify themes](https://openthinking.net/?ref=ghsb)
