@@ -1,4 +1,4 @@
-![Waving hand](https://i0.wp.com/openthinking.net/favicon.png?w=100)
+![Waving hand](https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/openthinking-horizont.png)
 
 ## Get started
 
