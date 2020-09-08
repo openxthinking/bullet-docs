@@ -1,4 +1,4 @@
-![Waving hand](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/apple/237/waving-hand-sign_1f44b.png)
+![Waving hand](https://i0.wp.com/openthinking.net/favicon.png?w=100)
 
 ## Get started
 
@@ -13,4 +13,4 @@
 - You can also open a [ticket](https://openthinking.net/support/?ref=ghsb).
 
 ---
-&copy; 2020, _OpenThinking_
+&copy; 2020, [OpenThinking](https://openthinking.net/support/?ref=ghsb)
