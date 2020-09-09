@@ -21,6 +21,7 @@ Until then here's a guide on how to do it manually.
 1. Scroll to `Theme library`
 1. Click `Upload theme`, then `Browse` for theme's `.zip` file on your computer
 1. Click on `Upload now` to start the install process
+1. Once uploaded > Click on `Actions` then `Rename` and type theme's version: vX.X.X (_e.g. Bullet v1.1.1_)
 
 #### step 3. Copy settings of LIVE theme
 1. Locate your current theme
