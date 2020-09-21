@@ -61,6 +61,9 @@ You can edit your theme settings to customize your online store's content, layou
 #### Typography
 - Here you can change the typography of your site.
 
+#### OpenThinking SEO Engine®
+- We provide a SEO Engine for your store out of the box. Just set-up and enable. `Disabled by default`
+
 #### Favicon
 - Favicons are what you see in browser tabs, bookmark bars. Favicons should be SQARE and at least 512x512 px.
 
