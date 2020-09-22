@@ -7,5 +7,5 @@
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
 - **Links**
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://openthinking.net/?ref=ghsb)
-- [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://openthinking.net/themes/?ref=ghsb)
+- [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://openthinking.net/shopify-themes/?ref=ghsb)
 - [![Support](https://icongr.am/feather/message-square.svg?size=16&color=808080)Support](https://openthinking.net/support/?ref=ghsb)
