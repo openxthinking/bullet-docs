@@ -2,6 +2,7 @@
 - [2. Setup](setup)
 - [3. Customization](custom)
 - [4. Update](update)
+- [![Misc](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](misc)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
