@@ -9,12 +9,16 @@ Here's how to give OpenThinking access to your store.
 <!-- tabs:start -->
 #### **FAQ**
 
+- Q: __Is my Shopify store and account secure with this method?__
+- A: Yes. We can log in to your store only from the "Partner Dashboard" and have a limited view of your store. We don't have your passwords, and You can remove our access to your store at any time (see how in the "Delete OpenThinking" tab).
+
+
 - Q: __I accidentally rejected the request, how can I get it back?__
 - A: If you rejected the request please contact us again so we can contact "Shopify Partner Support" and let them unlock our account so that we can send you another request.
 
 
 - Q: __What should I do when I'm finished working with OpenThinking?__
-- A: If you don't need any more help from us, you can then delete our account. (see how in the "Delete OpenThinking" tab)
+- A: If you don't need any more help from us, then you can delete our account. (see how in the "Delete OpenThinking" tab)
 
 #### **Delete OpenThinking**
 
