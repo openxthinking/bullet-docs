@@ -12,17 +12,21 @@ Here's how to give OpenThinking access to your store.
 - Q: __I accidentally rejected the request, how can I get it back?__
 - A: If you rejected the request please contact us again so we can contact "Shopify Partner Support" and let them unlock our account so that we can send you another request.
 
+
 - Q: __What should I do when I'm finished working with OpenThinking?__
-- A: If you don't need any more help from us, you can then delete our account. (see how in the "Steps" tab)
+- A: If you don't need any more help from us, you can then delete our account. (see how in the "Delete OpenThinking" tab)
 
-#### **Steps**
+#### **Delete OpenThinking**
 
-Delete our account: ⚠️ __This action cannot be undone__
+!> **Important** ⚠️ This action cannot be undone
+
+Delete OpenThinking account:
 1. Log in as the store owner.
 1. From your Shopify admin, click Settings, and then click Plan and permissions.
-1. In the Collaborators section, click the collaborator's name.
+1. In the Collaborators section, click the on `OpenThinking`.
 1. In the Remove collaborator account section, click Delete collaborator account or Remove collaborator account.
 1. In the confirmation dialog, click Delete.
-<!-- tabs:end -->
 
-- Learn more about [Shopify Partners access](https://help.shopify.com/en/manual/your-account/staff-accounts/collaborator-accounts#what-are-collaborator-accounts)
+
+Once our account is permanently deleted from your store it no longer appears in the "Collaborators list" on your "Plan and permissions" page and we can no longer access your store. If you want to give us access again, then you must ask us to resend you the collaborator request.
+<!-- tabs:end -->
