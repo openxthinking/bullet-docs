@@ -3,7 +3,7 @@
 ## Partner access
 Here's how to give OpenThinking access to your store.
 
-1. All you've to do is provide us with your Shopify store URL: e.g. `your-store.myshopify.com`.
+1. All you've to do is provide us with your Shopify store URL: e.g. `your-store.myshopify.com`
 1. Once the URL is provided we'll submit the request to access your store, you'll receive an email and a notification on your Shopify Home. Please accept it!
 
 <!-- tabs:start -->
@@ -18,12 +18,12 @@ Here's how to give OpenThinking access to your store.
 
 #### **Delete OpenThinking**
 
-!> **Important** ⚠️ This action cannot be undone
+!> **Important** This action cannot be undone
 
 Delete OpenThinking account:
 1. Log in as the store owner.
 1. From your Shopify admin, click Settings, and then click Plan and permissions.
-1. In the Collaborators section, click the on `OpenThinking`.
+1. In the Collaborators section, click on `OpenThinking`.
 1. In the Remove collaborator account section, click Delete collaborator account or Remove collaborator account.
 1. In the confirmation dialog, click Delete.
 
