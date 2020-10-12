@@ -8,11 +8,12 @@
 2. [setup](setup)
 3. [customize](custom)
 
-## Continue
+## More
 
 - 🎯 We answer questions in the [FAQ section](faq).
 - 📗 We share bytes of codes in the [Snippets section](snippets).
 - 📽 We have (some) illustrative video tutorials in the [Video section](video).
+- 🎰 You can find some more answers or tips in the [Miscellaneous section](misc).
 
 ## Contact & support
 
