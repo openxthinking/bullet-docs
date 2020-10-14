@@ -85,6 +85,10 @@ You can edit your theme settings to customize your online store's content, layou
 #### Custom Code
 - If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom CSS/JS` section for your custom CSS & JS code.
 
+#### Trackers & Pixels
+- Use this section for your analytics, trackers or pixels codes. ⚠️ Keep in mind that trackers/pixels might slow down your website.
+ 
+
 ## Pages
 
 
