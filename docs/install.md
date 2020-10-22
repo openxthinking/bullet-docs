@@ -1,9 +1,9 @@
 # Theme installation
 
-Themes can be installed through the [Shopify Admin panel](https://www.shopify.com/admin/themes?ref=OpenThinking).
+Themes can be installed through the [Shopify Admin panel](https://www.shopify.com/admin/themes?ref=openthinking1).
 
 1. Download the `.zip` file _(from the download link you recieved in your email or directly from your profile)_
-1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking)
+1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1)
 1. Scroll to `Theme library`
 1. Click `Upload theme`, then `Browse` for theme's `.zip` file on your computer
 1. Click on `Upload now` to start the install process
