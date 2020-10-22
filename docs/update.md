@@ -17,7 +17,7 @@ Until then here's a guide on how to do it manually.
 1. Download the latest version `(.zip)`
 
 #### step 2. Upload on Shopify
-1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=OpenThinking)
+1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1)
 1. Scroll to `Theme library`
 1. Click `Upload theme`, then `Browse` for theme's `.zip` file on your computer
 1. Click on `Upload now` to start the install process
