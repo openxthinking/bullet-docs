@@ -202,7 +202,7 @@ Copy all the code from `product-custom.liquid` into the new `product-custom1.liq
 1. In the Theme Editor (customize) > navigate to the product that has been assigned the product.custom2 template, you will then see options to add unique content blocks to that product.
 
 
-### Need even more products / pages?
+#### Need even more products / pages?
 
 This process can be repeated if you need still more different page content for different pages by creating more templates and sections and following the naming conventions as the above instruction, such as:
 ```
