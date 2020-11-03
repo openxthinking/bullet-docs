@@ -113,3 +113,60 @@ Setting up the other pages is as easy.
 1. Look for `"NAME" page` (e.g. Contact page) then `Click`
 1. Edit the content
 1. Click `Save` (top right button)
+
+
+## Custom page
+How to create additional, unique pages that use the `page.custom` template.
+
+By default, any page that is using the `page.custom` template will contain the same content.
+
+The `page.custom` template is a robust page template with a number of configurable content blocks. This template is optimal for creating a beautiful Langind page, an About page, or to give one of your favourite internal pages a facelift. If you would like to have different page content and sections on different pages, follow these instructions.
+
+
+#### step 1: Add a new template
+1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1) 
+1. Click `Actions` > `Edit Code` 
+1. From sidebar open `Templates` then click on `Add new template`
+1. Name it 'custom2' and 'Create template'
+
+
+#### step 2: Edit the template code
+Remove all the code that is in the file you just created and replace it with this code:
+
+```
+{% comment %}
+	The contents of the page.custom.liquid template can be found in
+	/sections/page-custom1.liquid
+{% endcomment %}
+{% section 'page-custom1' %}
+```
+
+#### step 3: Add a new section
+1. From sidebar open `Sections` then click on `Add new section`
+1. Name it 'page-custom1' and click 'Create section'
+
+
+#### step 4: Modify the section code
+Copy all the code from `page-custom.liquid` into the new `page-custom1.liquid`
+
+
+#### step 5: Change the template your page uses
+1. From your Shopify admin, go to [Online store > Pages](https://www.shopify.com/admin/pages?ref=openthinking1) 
+1. select the page you want to have this different template applied to and then select `page.custom1` from the "Template suffix option":
+
+#### step 6: Add blocks
+1. In the shop preview, click on the page that has been assigned the `page.custom1` template and you will see options to add content blocks unique to that page.
+
+
+### Need even more pages?
+
+This process can be repeated if you need still more different page content for different pages by creating more templates and sections and following the naming conventions as the above instruction, such as:
+```
+Template: page.custom2.liquid
+Section: page-custom2.liquid
+[...] etc.
+```
+
+?> NOTE: A high number of custom page or product templates can cause performance issues with your store or the theme editor. We recommend using 10 or fewer custom pages. If you need more unique layouts than this, we suggest hiring a developer to create custom code.
+
+?> NOTE: If you find that your store is generating error messages or the theme editor does not load properly, you may have created too many page or product templates and will need to remove one or more to restore full functionality.
