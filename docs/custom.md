@@ -158,7 +158,7 @@ Copy all the code from `page-custom.liquid` into the new `page-custom1.liquid`
 #### step 6: Add blocks
 1. In the shop preview, click on the page that has been assigned the `page.custom1` template and you will see options to add content blocks unique to that page.
 
-
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#custom-page)
 
 
 ## Custom product 
