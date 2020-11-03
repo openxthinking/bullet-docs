@@ -91,7 +91,6 @@ You can edit your theme settings to customize your online store's content, layou
 
 ## Pages
 
-
 ### Homepage settings
 To populate your Homepage with content follow the steps below
 
@@ -113,6 +112,8 @@ Setting up the other pages is as easy.
 1. Look for `"NAME" page` (e.g. Contact page) then `Click`
 1. Edit the content
 1. Click `Save` (top right button)
+
+
 
 
 ## Custom page
@@ -158,7 +159,50 @@ Copy all the code from `page-custom.liquid` into the new `page-custom1.liquid`
 1. In the shop preview, click on the page that has been assigned the `page.custom1` template and you will see options to add content blocks unique to that page.
 
 
-### Need even more pages?
+
+
+## Custom product 
+How to create additional, unique pages that use the `product.custom` template.
+
+By default, any page that is using the `product.custom` template will contain the same content.
+
+The `product.custom` template is a robust page template with a number of configurable content blocks. This template is optimal for creating a beautiful Langind page, an About page, or to give one of your favourite internal pages a facelift. If you would like to have different page content and sections on different pages, follow these instructions.
+
+#### step 1: Add a new template
+1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1) 
+1. Click `Actions` > `Edit Code` 
+1. From sidebar open `Templates` then click on `Add new template`
+1. Name it 'custom2' and 'Create template'
+
+#### step 2: Edit the template code
+Remove all the code that is in the file you just created and replace it with this code:
+
+```
+{% comment %}
+	The contents of the product.custom.liquid template can be found in
+	/sections/product-custom1.liquid
+{% endcomment %}
+{% section 'product-custom1' %}
+```
+
+#### step 3: Add a new section
+1. From sidebar open `Sections` then click on `Add new section`
+1. Name it 'product-custom1' and click 'Create section'
+
+
+#### step 4: Modify the section code
+Copy all the code from `product-custom.liquid` into the new `product-custom1.liquid`
+
+
+#### step 5: Change the template your page uses
+1. From your Shopify admin, go to [Online store > Products](https://www.shopify.com/admin/products?ref=openthinking1) 
+1. select the product you want to have this different template applied to and then select `product.custom1` from the "Template suffix option":
+
+#### step 6: Add blocks
+1. In the Theme Editor (customize) > navigate to the product that has been assigned the product.custom2 template, you will then see options to add unique content blocks to that product.
+
+
+### Need even more products / pages?
 
 This process can be repeated if you need still more different page content for different pages by creating more templates and sections and following the naming conventions as the above instruction, such as:
 ```
