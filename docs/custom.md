@@ -114,8 +114,6 @@ Setting up the other pages is as easy.
 1. Click `Save` (top right button)
 
 
-
-
 ## Custom page
 How to create additional, unique pages that use the `page.custom` template.
 
@@ -214,3 +212,38 @@ Section: page-custom2.liquid
 ?> NOTE: A high number of custom page or product templates can cause performance issues with your store or the theme editor. We recommend using 10 or fewer custom pages. If you need more unique layouts than this, we suggest hiring a developer to create custom code.
 
 ?> NOTE: If you find that your store is generating error messages or the theme editor does not load properly, you may have created too many page or product templates and will need to remove one or more to restore full functionality.
+
+
+## Brand listing page
+
+All our themes come with Brand listing pages available out-of-the-box. Follow the step-by-step guide below to active your Brand listing page.
+
+
+#### step 1: Create collections
+1. From your Shopify admin, go to [Products > Collections](https://shopify.com/admin/collections/?ref=openthinking1)
+1. Click `Create collection` 
+1. Enter `Title`, `Description` and upload an `image`
+1. In `Collection type` select `Automated`
+1. In `CONDITIONS` change `Product type` to `Product vendor` 
+1. In the blank input field type the name of the brand
+
+#### step 2: Create a link list within the navigation
+1. From your Shopify admin, go to [Online store > Navigation](https://shopify.com/admin/menus/?ref=openthinking1)
+1. Click `Add menu` 
+1. In `Title` type `Brands` and leave `Handle` to `brands`
+1. From `Add menu item` select all your Brands you created.
+1. You can re-order easily with drag-and-drop.
+1. Once you're done > `Save	menu`
+
+#### step 3: Create brands page
+
+Now all you’ve got to do is create a brand’s page and change the template to page.collection and click save.
+
+1. From your Shopify admin, go to [Online store > Pages](https://shopify.com/admin/pages/?ref=openthinking1)
+1. Click `Add page` > in `Title` type `Brands`
+1. In `Title` type `Brands` 
+1. In `Template` (Template suffix) select `page.brands`
+1. Once you're done > `Save`
+
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#brand-listing)
+
