@@ -114,7 +114,7 @@ Setting up the other pages is as easy.
 1. Click `Save` (top right button)
 
 
-## Custom page
+### Custom page
 How to create additional, unique pages that use the `page.custom` template.
 
 By default, any page that is using the `page.custom` template will contain the same content.
@@ -159,7 +159,7 @@ Copy all the code from `page-custom.liquid` into the new `page-custom1.liquid`
 [<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#custom-page)
 
 
-## Custom product 
+### Custom product 
 How to create additional, unique pages that use the `product.custom` template.
 
 By default, any page that is using the `product.custom` template will contain the same content.
@@ -214,7 +214,7 @@ Section: page-custom2.liquid
 ?> NOTE: If you find that your store is generating error messages or the theme editor does not load properly, you may have created too many page or product templates and will need to remove one or more to restore full functionality.
 
 
-## Brand listing page
+### Brand listing page
 
 All our themes come with Brand listing pages available out-of-the-box. Follow the step-by-step guide below to active your Brand listing page.
 
@@ -246,4 +246,3 @@ Now all you’ve got to do is create a brand’s page and change the template to
 1. Once you're done > `Save`
 
 [<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#brand-listing)
-
