@@ -14,6 +14,7 @@
 - 📗 We share bytes of codes in the [Snippets section](snippets).
 - 📽 We have (some) illustrative video tutorials in the [Video section](video).
 - 🎰 You can find some more answers or tips in the [Miscellaneous section](misc).
+- 🐲 CSS framework [Skelet. by Selekkt.](https://selekkt.dk/skelet/v3/?ref=openthinking).
 
 ## Contact & support
 
@@ -21,4 +22,4 @@
 - You can also open a [ticket](https://openthinking.net/help/?ref=ghsb).
 
 ---
-&copy; 2020, [OpenThinking](https://openthinking.net/?ref=ghsb)
+&copy; 2021, [OpenThinking](https://openthinking.net/?ref=ghsb)
