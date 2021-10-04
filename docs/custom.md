@@ -30,30 +30,45 @@ The theme editor toolbar (on the left) is divided into `Sections` and `Theme set
 
 #### Header
 ##### + Logo
-- __Text logo__: The name of your site. (_if an image logo is selected this is automatically overwritten_)
+- __Text logo__: The name of your site. (_if an image is selected this is automatically overwritten_)
     - __Font__: You can chose the font of your Text logo.
     - __Font size__: You can select the size of your Text logo.
-- __Image logo__: Logo for your site. Horizontal images are prefered. The logo should be in a SVG, PNG, or JPEG/JPG formats.
+- __Image logo__: Logo for your site. Horizontal images recommended.
     - __Image height__: The size in height of your Image logo.
 
 ##### + Menu
 - __Desktop__: Select the menu for the desktop version
 - __Mobile__: Select the menu for the mobile version
+- __Drawer__: Select the menu for the drawer
 
 ##### + Others
 Here you can tweak other settings of the theme.
 
 #### Footer
-##### + Menu
-- Select the menu for the desktop version
 
-##### + Privacy & Terms 
-- Select the links pointing to the Legal pages you created in the Setup section.
+##### + Footer
+- __Copyright__: Set your Copyright notice.
+- __Show payment icons__: By default, your theme shows the icons that are associated with the payment gateway you have enabled in the payment settings
+ section of your admin.
+- __Currency switcher__: Show "Currency switcher" if your store is selling in multiple currencies.
+
+##### + About your business
+- Use this to add additional information about your business, e.g. address, opening hours etc.
+
+##### + Newsletter
+- Gather your customers' eMails.
+
+##### + Menu
+- __Menu__: Select the menu for the footer menu.
+- __Privacy & Terms__: Select the links pointing to the Legal pages you created in the Setup section.
 
 ---
 
 ### Theme settings
 You can edit your theme settings to customize your online store's content, layout, typography, and colors. Each theme provides settings that allow you to change the look and feel of your store without editing any code.
+
+#### Layout
+- In this section you can change your theme's layout.
 
 #### Colors
 - In this section you can change all the colors of your site, such as page background, text color, inputs etc.
@@ -64,13 +79,19 @@ You can edit your theme settings to customize your online store's content, layou
 #### OpenThinking SEO Engine®
 - We provide a SEO Engine for your store out of the box. Just set-up and enable. `Disabled by default`
 
-#### Favicon
-- Favicons are what you see in browser tabs, bookmark bars. Favicons should be SQARE and at least 512x512 px.
+	##### + Favicon
+	- Favicons are what you see in browser tabs, bookmark bars. Favicons should be SQARE and 32x32 px.
 
 #### Social media
 - Social media is for your sochial media profiles. These usually show inside the footer or other parts of the theme.
 
-#### Side cart
+#### Breadcrumb
+- Show breadcrumbs bar underneath the header.
+
+#### Product card
+- Customize the look of Product cards. You can pick between different types of layouts for the product card.
+
+#### Top cart
 - Depending on your theme you can have a `Side cart` or `Top cart`. This is where you can personalize the look and feel of your Shopping side/top cart.
 
 #### Newsletter popup
@@ -82,12 +103,12 @@ You can edit your theme settings to customize your online store's content, layou
 #### Noticer
 - The Noticer is an announcement bar which allows merchants to display custom updates and promote discounts. When added, this static section can be displayed on the homepage or on all pages.
 
-#### Custom Code
-- If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom CSS/JS` section for your custom CSS & JS code.
-
-#### Trackers & Pixels
+#### Analytics
 - Use this section for your analytics, trackers or pixels codes. ⚠️ Keep in mind that trackers/pixels might slow down your website.
  
+#### Custom CSS/JS
+- If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom CSS/JS` section for your custom CSS & JS code.
+
 
 ## Pages
 
@@ -112,106 +133,6 @@ Setting up the other pages is as easy.
 1. Look for `"NAME" page` (e.g. Contact page) then `Click`
 1. Edit the content
 1. Click `Save` (top right button)
-
-
-### Custom page
-How to create additional, unique pages that use the `page.custom` template.
-
-By default, any page that is using the `page.custom` template will contain the same content.
-
-The `page.custom` template is a robust page template with a number of configurable content blocks. This template is optimal for creating a beautiful Langind page, an About page, or to give one of your favourite internal pages a facelift. If you would like to have different page content and sections on different pages, follow these instructions.
-
-
-#### step 1: Add a new template
-1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1) 
-1. Click `Actions` > `Edit Code` 
-1. From sidebar open `Templates` then click on `Add new template`
-1. Name it 'custom2' and 'Create template'
-
-
-#### step 2: Edit the template code
-Remove all the code that is in the file you just created and replace it with this code:
-
-```
-{% comment %}
-	The contents of the page.custom.liquid template can be found in
-	/sections/page-custom1.liquid
-{% endcomment %}
-{% section 'page-custom1' %}
-```
-
-#### step 3: Add a new section
-1. From sidebar open `Sections` then click on `Add new section`
-1. Name it 'page-custom1' and click 'Create section'
-
-
-#### step 4: Modify the section code
-Copy all the code from `page-custom.liquid` into the new `page-custom1.liquid`
-
-
-#### step 5: Change the template your page uses
-1. From your Shopify admin, go to [Online store > Pages](https://www.shopify.com/admin/pages?ref=openthinking1) 
-1. select the page you want to have this different template applied to and then select `page.custom1` from the "Template suffix option":
-
-#### step 6: Add blocks
-1. In the shop preview, click on the page that has been assigned the `page.custom1` template and you will see options to add content blocks unique to that page.
-
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#custom-page)
-
-
-### Custom product 
-How to create additional, unique pages that use the `product.custom` template.
-
-By default, any page that is using the `product.custom` template will contain the same content.
-
-The `product.custom` template is a robust page template with a number of configurable content blocks. This template is optimal for creating a beautiful Langind page, an About page, or to give one of your favourite internal pages a facelift. If you would like to have different page content and sections on different pages, follow these instructions.
-
-#### step 1: Add a new template
-1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1) 
-1. Click `Actions` > `Edit Code` 
-1. From sidebar open `Templates` then click on `Add new template`
-1. Name it 'custom2' and 'Create template'
-
-#### step 2: Edit the template code
-Remove all the code that is in the file you just created and replace it with this code:
-
-```
-{% comment %}
-	The contents of the product.custom.liquid template can be found in
-	/sections/product-custom1.liquid
-{% endcomment %}
-{% section 'product-custom1' %}
-```
-
-#### step 3: Add a new section
-1. From sidebar open `Sections` then click on `Add new section`
-1. Name it 'product-custom1' and click 'Create section'
-
-
-#### step 4: Modify the section code
-Copy all the code from `product-custom.liquid` into the new `product-custom1.liquid`
-
-
-#### step 5: Change the template your page uses
-1. From your Shopify admin, go to [Online store > Products](https://www.shopify.com/admin/products?ref=openthinking1) 
-1. select the product you want to have this different template applied to and then select `product.custom1` from the "Template suffix option":
-
-#### step 6: Add blocks
-1. In the Theme Editor (customize) > navigate to the product that has been assigned the product.custom2 template, you will then see options to add unique content blocks to that product.
-
-
-#### Need even more products / pages?
-
-This process can be repeated if you need still more different page content for different pages by creating more templates and sections and following the naming conventions as the above instruction, such as:
-```
-Template: page.custom2.liquid
-Section: page-custom2.liquid
-[...] etc.
-```
-
-?> NOTE: A high number of custom page or product templates can cause performance issues with your store or the theme editor. We recommend using 10 or fewer custom pages. If you need more unique layouts than this, we suggest hiring a developer to create custom code.
-
-?> NOTE: If you find that your store is generating error messages or the theme editor does not load properly, you may have created too many page or product templates and will need to remove one or more to restore full functionality.
 
 
 ### Brand listing page
