@@ -1,41 +1,37 @@
 # Theme updates
-Unfortunately Shopify doesn't offer a straight forward way to update themes.
 
-That said, we're working on a custom APP to install theme updates easily in few clicks without having to manage files and code yourself.
+Themes only update automatically when you or an installed app haven't made any code changes to your theme, and the theme update doesn't introduce new settings. This is because automatic updates remove custom code changes. 
 
-Until then here's a guide on how to do it manually.
+!> If you want to update your theme but have edited the code or installed an app that has changed the code, then you need to manually add an updated version of the theme to your online store.
 
-!> __IMPORTANT__: Updating the theme to the latest version means that you're going to lose all custom changes you've made to the code.
+?> If do not know how to do it and still want to update your theme contact whomever modified the theme's code for you, they will handle it.
 
-?> If you still want to update your theme contact whomever modified theme's code, they will handle it for you.
 
 ## Update
 
-#### step 1. Download new theme version from OpenThinking
-1. [Log in](https://openthinking.net/account/?ref=ghsb) into your account
-1. Go to ` View Details and Downloads` scroll to `Products`
-1. Download the latest version `(.zip)`
+#### step 1. Backup your theme
+!> Before you customize a theme, make a backup copy so that you can discard your changes and start again if you need to.
 
-#### step 2. Upload on Shopify
-1. From your Shopify admin, go to [Online store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1)
-1. Scroll to `Theme library`
-1. Click `Upload theme`, then `Browse` for theme's `.zip` file on your computer
-1. Click on `Upload now` to start the install process
-1. Once uploaded > Click on `Actions` then `Rename` and type theme's version: vX.X.X (_e.g. Bullet v1.1.1_)
+1. From your `Shopify admin`, go to `Online Store > Themes`
+1. Locate the theme you want to duplicate, click `Actions > Duplicate`
 
-#### step 3. Copy settings of LIVE theme
-1. Locate your current theme
-1. Click `Edit code`
-1. In the search bar type `settings_data.json`
-1. `Open` then `Copy` its contents
-1. Go back to `Themes`
 
-#### step 4. Paste settings of LIVE to NEW theme
-1. Locate your NEW theme
-1. Click `Edit code`
-1. In the search bar type `settings_data.json`
-1. `Open` then `Paste` what you copied previously
-1. `Save` then Go back to `Themes`
-1. Publish theme: Click on `Actions > Publish` then `Publish`
+#### step 2. Add an updated version of your theme to your online store
+1. Visit the [Shopify Theme Store](https://themes.shopify.com/?ref=openthinking1) and `log in`. 
+⚠️ It is important to log in to the account that you used to buy the theme. This will prevent you from being asked to buy the theme again.
+1. Use the top bar search box and search: `OpenThinking` or [click here](https://themes.shopify.com/themes?q=OpenThinking&ref=openthinking1)
+1. On the search results page, click your `OpenThinking` theme.
+1. Click `Add latest theme version` or `Add theme`.
 
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#update-theme)
+!> When you manually add an updated version of a theme, a second version of the theme is added to your online store. The new version is in its default state, with none of your customizations applied. The older version is unaffected by the update, and still has all of your code customizations.
+
+#### step 3. After you add an updated theme
+1. Customize your theme by using the theme editor.
+1. `Uninstall` any apps that add code to a theme, and then re-install them from the [Shopify App Store](https://apps.shopify.com/?ref=openthinking1). If you're not sure whether an app needs to be re-installed, then contact the app developer for support. To contact the app developer, find the app on the [Apps page](https://shopify.com/admin/apps?ref=openthinking1) of your `Shopify admin`, and then click `Get support`.
+
+
+## External links
+- [Duplicating themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes?ref=openthinking1)
+- [Updating themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/updating-themes?ref=openthinking1)
+- [Customizing themes](https://help.shopify.com/en/manual/online-store/themes/os20/customize/?ref=openthinking1)
+- [Publishing themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/publishing-themes?ref=openthinking1)
