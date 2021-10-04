@@ -125,7 +125,7 @@ To populate your Homepage with content follow the steps below
 [<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading=lazy width=150>](video#customize-homepage)
 
 ### Other pages settings
-Setting up the other pages is as easy.
+In order for pages such as FAQ, Press, Contact, About etc. to work as intended, you'll need to add the content via `Theme editor`.
 
 1. We're in the [Theme editor](#launch-the-editor)
 1. Make sure you're in the right place by checking the `"NAME" page` from the top bar drop-down menu
