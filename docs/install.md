@@ -1,5 +1,8 @@
 # Theme installation
 
+!> Skip this if you bought your theme through `Shopify theme store`.
+
+
 Themes can be installed through the [Shopify Admin panel](https://www.shopify.com/admin/themes?ref=openthinking1).
 
 1. Download the `.zip` file _(from the download link you recieved in your email or directly from your profile)_
