@@ -19,4 +19,4 @@
 1. When you're done `Save` 
 1. You're good to go!
 
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading="lazy" width=150>](video#menu)
+[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading="lazy" width=150>](video#custom-fonts)
