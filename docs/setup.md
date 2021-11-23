@@ -65,9 +65,9 @@ The mobile and drawer menus must be created manually, here's how:
 
 
 ## Apps
-Our themes by default use apps to enhance their functioanlity. Apps must be installed manually.
+Our themes use apps to enhance their functioanlity. Apps must be installed manually.
 
-⚠️ These apps are already integrated/styled with your theme, after the installation you do not have to do anything else except .
+⚠️ These apps are already integrated/styled with your theme, after the installation you do not have to do anything else except including them in where needed.
  
 - "Shopify Product Reviews" app. Install it from [HERE](https://apps.shopify.com/product-reviews?ref=openthinking1&utm_campaign=docs)
 
