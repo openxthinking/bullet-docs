@@ -7,4 +7,4 @@ Yes, our themes are build upon [Skelet. by Selekkt.](https://selekkt.dk/skelet/v
 
 ### Can I use external fonts in your themes?
 
-Yes, have a look at [snippets#add-custom-fonts](this guide).
+Yes, have a look at [this guide](snippets#add-custom-fonts).
