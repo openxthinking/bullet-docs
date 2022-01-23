@@ -15,11 +15,13 @@
 - 📽 We have (some) illustrative video tutorials in the [Video section](video).
 - 🎰 You can find some more answers or tips in the [Miscellaneous section](misc).
 - 🐲 CSS framework [Skelet. by Selekkt.](https://selekkt.dk/skelet/v3/?ref=openthinking).
+- 📝 [Theme changelog](https://openthinking.net/changelog/bullet.md).
 
 ## Contact & support
 
-- Create a [GitHub issue](https://github.com/openxthinking/master-docs/issues) for bug reports, feature requests, or questions.
-- You can also open a [ticket](https://openthinking.net/help/?ref=ghsb).
+- If you've problems with your OpenThinking theme, [Contact OpenThinking support](https://openthinking.net/support/?ref=ghsb).
+- If you've general questions or problems you can also post in the [Shopify community](https://community.shopify.com/) forum.
+- If you've problems with Shopify itself [Contact Shopify support](https://help.shopify.com/en/questions#/login).
 
 ---
-&copy; 2021, [OpenThinking](https://openthinking.net/?ref=ghsb)
+&copy; 2022, [OpenThinking](https://openthinking.net/?ref=ghsb)
