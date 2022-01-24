@@ -30,7 +30,9 @@ The theme editor toolbar (on the left) is divided into `Sections` and `Theme set
 ## Settings
 
 ### Theme settings
-You can edit your theme settings to customize your online store's content, layout, typography, and colors. Each theme provides settings that allow you to change the look and feel of your store without editing any code.
+You can edit your theme settings to customize your online store's content, layout, typography, and colors. Each theme provides settings that allow you to change the look and feel of your store without editing any code. ![image alt >](/theme-editor.png)
+![image alt <](/_media/theme-editor.png)
+![image alt ><](/_media/theme-editor.png)
 
 
 #### Layout

@@ -1,6 +1,6 @@
 - [1. Setup](setup)
 - [2. Customize](customization)
-- [![Update](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](Update)
+- [![Update](https://icongr.am/clarity/terminal.svg?size=16&color=808080)Update](Update)
 - [![Misc](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](misc)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
