@@ -1,8 +1,8 @@
 # Setup
-
 Here’s a quick setup you need to do before moving to the customization of your new OpenThinking theme.
 
-### Helpful links
+
+### External links
 
 If you're just starting with Shopify these quick links will guide you on how to set things up for the first time.
 
@@ -16,8 +16,8 @@ If you're just starting with Shopify these quick links will guide you on how to 
 - [Google Tag Manager](https://help.shopify.com/en/manual/reports-and-analytics/google-analytics/google-tag-manager?ref=openthinking1&utm_campaign=docs)
 - [Facebook Pixel](https://help.shopify.com/en/manual/promoting-marketing/analyze-marketing/facebook-pixel?ref=openthinking1&utm_campaign=docs)
 
-⚠️ Support is limited to our themes. We do not offer support for the above content.
-Support is limited to OpenThinking themes. We can not offer support or installation for third party apps or code.
+?> Support is limited to OpenThinking themes. We can not offer support or installation for third party apps or code.
+
 
 ## Pages
 
@@ -47,7 +47,7 @@ OpenThinking themes come with custom layouts for common pages such as _Contact, 
 
 ?> Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
-[<img src="https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/tutorial.png?w=200" alt="Video tutorial" loading="lazy">](video#pages)
+[<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#pages)
 
 ## Navigation
 
@@ -85,7 +85,21 @@ By default OpenThinking themes use the `Main menu` to display links in theme's h
 6. Click `Add` to add your menu item.
 7. Click `Save menu`.
 
-[<img src="https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/tutorial.png?w=200" alt="Video tutorial" loading="lazy">](video#menu)
+[<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#menu)
+
+### Add filters
+
+
+Storefront filters allow you to set up product filtering on your collection pages. When you enable filtering, customers can filter your products by availability, product type, color, or other options to find the products that interest them the most.
+
+
+1. From Shopify admin, go to [Online Store > Navigation](https://www.shopify.com/admin/menus?ref=openthinking1).
+1. Scroll down to `Collection and search filters`.
+1. Click `Add filters`.
+1. Select one or more filter options from the list of available filters.
+1. Click `Done` to save your product options.
+1. Click `Save` to update your collection and search filters.
+
 
 
 ## Apps
@@ -95,4 +109,4 @@ Our themes use apps to enhance their functioanlity. Apps must be installed manua
  
 - "_Shopify product reviews_" app. Install it from [HERE](https://apps.shopify.com/product-reviews?ref=openthinking1&utm_campaign=docs)
 
-[<img src="https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/tutorial.png?w=200" alt="Video tutorial" loading="lazy">](video#app-installation)
+[<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#app-installation)

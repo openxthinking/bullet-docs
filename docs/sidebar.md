@@ -2,8 +2,8 @@
 - [2. Customize](customization)
 - [![Update](https://icongr.am/clarity/terminal.svg?size=16&color=808080)Update](Update)
 - [![Misc](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](misc)
-- [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
+- [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
 - **Links**
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://openthinking.net/?ref=ghsb)

@@ -1,4 +1,4 @@
-![OpenThinking](https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png?h=250)
+<img src="https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png?h=200" height="150" alt="OpenThinking" loading="lazy">
 
 ## Getting started
 
