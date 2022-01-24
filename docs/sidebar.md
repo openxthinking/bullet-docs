@@ -7,6 +7,7 @@
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
 - [![Changelog](https://icongr.am/clarity/tree-view.svg?size=16&color=808080)Changelog](changelog)
 - **Links**
+- [![Shopify free trial](https://icongr.am/simple/shopify.svg?size=16&color=95BF47)Shopify free trial](https://openthinking.net/shopify)
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://openthinking.net/?ref=ghsb)
 - [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://openthinking.net/shopify-themes/?ref=ghsb)
 - [![Support](https://icongr.am/feather/message-square.svg?size=16&color=808080)Support](https://openthinking.net/support/?ref=ghsb)

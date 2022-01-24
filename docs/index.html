@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="Skelet." property="Sēlekkt. Studio" content="https://selekkt.dk/skelet/v3/">
 
-    <meta name="theme-color" content="#293239">
+    <meta name="theme-color" content="#131B1D">
 
     <meta name="description" content="Free help, support and documentation for your premium shopify themes from OpenThinking.">
     <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
@@ -43,10 +43,10 @@
     .markdown-section .warn,
     .markdown-section blockquote { border-radius: var(--globalBorder) }
 
-    img { border-radius: var(--globalBorder) }
-    img[alt$=">"] { float: right; width: 50% }
-    img[alt$="<"] { float: left; width: 50% }
-    img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
+    #main img { border-radius: var(--globalBorder) }
+    #main img[alt$=">"] { float: right; width: 50% }
+    #main img[alt$="<"] { float: left; width: 50% }
+    #main img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
   </style>
 </head>
 <body>
@@ -61,12 +61,16 @@
       //repo       : '',
       //coverpage  : '',
       //homepage   : '',
+      logo: 'https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png?h=200',
       loadSidebar: 'sidebar.md',
       alias: {
         '.*?/changelog':
         'https://raw.githubusercontent.com/openxthinking/changelogs/master/bullet.md'
       },
-      
+      // FOOTER
+      // -----------------------------------------------------------------
+      loadFooter: true,
+      loadFooter: 'footer.md',
       // NAVIGATION
       // -----------------------------------------------------------------
       auto2top   : true,
@@ -94,5 +98,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 </body>
 </html>
