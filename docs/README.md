@@ -1,11 +1,15 @@
 <img src="https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png?h=200" height="150" alt="OpenThinking" loading="lazy">
 
+
+![img](https://openthinking.net/wp-content/uploads/edd/2020/09/bullet-shopify-theme-desktop.jpg)
+
+
 ## Getting started
 
 🚀 We've create a straightforward __2-step-guide__ for you to get started with your new theme!
 
 1. [Setup](setup)
-2. [Customize](custom)
+1. [Customize](custom)
 
 ## More
 
@@ -16,6 +20,7 @@
 - 🐲 CSS framework [Skelet. by Selekkt.](https://selekkt.dk/skelet/v3/?ref=openthinking).
 - 📝 [Theme changelog](https://openthinking.net/changelog/bullet.md).
 
+
 ## Support
 
 - If you have problems installing/customizing your OpenThinking theme [Contact OpenThinking support]()
@@ -24,4 +29,4 @@
 - For direct contact with [Shopify support](https://help.shopify.com/en/questions#/login)
 
 ---
-&copy; 2022, [OpenThinking](https://openthinking.net/?ref=ghsb)
+&copy; 2022, [OpenThinking](https://openthinking.net/?ref=ghsb).

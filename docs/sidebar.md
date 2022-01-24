@@ -5,6 +5,7 @@
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
+- [![Changelog](https://icongr.am/clarity/tree-view.svg?size=16&color=808080)Changelog](changelog)
 - **Links**
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://openthinking.net/?ref=ghsb)
 - [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)More themes](https://openthinking.net/shopify-themes/?ref=ghsb)

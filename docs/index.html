@@ -32,7 +32,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css">
 
   <style>
-    img { border-radius: 10px }
+    :root {
+        --base-background-color: #131B1D;
+        --sidebar-background: #131B1D;
+        --globalBorder: 10px;
+        --code-inline-border-radius: var(--globalBorder);
+    }
+
+    .markdown-section .tip, 
+    .markdown-section .warn,
+    .markdown-section blockquote { border-radius: var(--globalBorder) }
+
+    img { border-radius: var(--globalBorder) }
     img[alt$=">"] { float: right; width: 50% }
     img[alt$="<"] { float: left; width: 50% }
     img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
@@ -51,6 +62,10 @@
       //coverpage  : '',
       //homepage   : '',
       loadSidebar: 'sidebar.md',
+      alias: {
+        '.*?/changelog':
+        'https://raw.githubusercontent.com/openxthinking/changelogs/master/bullet.md'
+      },
       
       // NAVIGATION
       // -----------------------------------------------------------------
