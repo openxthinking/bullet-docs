@@ -1,12 +1,11 @@
-![OpenThinking](https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/openthinking-horizont.png)
+![OpenThinking](https://raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png)
 
-## Get started
+## Getting started
 
-🚀 We've create a straightforward __3-step-guide__ for you to get started with your new theme!
+🚀 We've create a straightforward __2-step-guide__ for you to get started with your new theme!
 
-1. [install](install) 
-2. [setup](setup)
-3. [customize](custom)
+1. [setup](setup)
+2. [customize](custom)
 
 ## More
 
@@ -17,11 +16,12 @@
 - 🐲 CSS framework [Skelet. by Selekkt.](https://selekkt.dk/skelet/v3/?ref=openthinking).
 - 📝 [Theme changelog](https://openthinking.net/changelog/bullet.md).
 
-## Contact & support
+## Support
 
-- If you've problems with your OpenThinking theme, [Contact OpenThinking support](https://openthinking.net/support/?ref=ghsb).
-- If you've general questions or problems you can also post in the [Shopify community](https://community.shopify.com/) forum.
-- If you've problems with Shopify itself [Contact Shopify support](https://help.shopify.com/en/questions#/login).
+- If you have problems installing/customizing your OpenThinking theme [Contact OpenThinking support]()
+- For custom theme features and enhancements request a [free quotation]()
+- For general questions or problems you can post in the [Shopify community forum](https://community.shopify.com/).
+- For direct contact with [Shopify support](https://help.shopify.com/en/questions#/login)
 
 ---
 &copy; 2022, [OpenThinking](https://openthinking.net/?ref=ghsb)
