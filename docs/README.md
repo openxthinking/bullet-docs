@@ -1,11 +1,11 @@
-![OpenThinking](https://raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png)
+![OpenThinking](https://i1.wp.com/raw.githubusercontent.com/openxthinking/docsy/master/docs/_media/logo.png?h=250)
 
 ## Getting started
 
 🚀 We've create a straightforward __2-step-guide__ for you to get started with your new theme!
 
-1. [setup](setup)
-2. [customize](custom)
+1. [Setup](setup)
+2. [Customize](custom)
 
 ## More
 
