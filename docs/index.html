@@ -29,7 +29,7 @@
     <link rel="icon" type="image/png" href="https://openthinking.net/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="https://openthinking.net/favicon.png">
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css">
 
   <style>
     :root {
@@ -47,6 +47,8 @@
     #main img[alt$=">"] { float: right; width: 50% }
     #main img[alt$="<"] { float: left; width: 50% }
     #main img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
+
+    @media (max-width: 700px) { .markdown-section { padding-inline: 15px } }
   </style>
 </head>
 <body>
@@ -76,7 +78,6 @@
       auto2top   : true,
       maxLevel   : 3,
       subMaxLevel: 3,
-
       // PLUGINS
       // -----------------------------------------------------------------
       executeScript: true,
