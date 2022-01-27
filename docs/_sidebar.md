@@ -1,11 +1,13 @@
-- [1. Setup](setup)
-- [2. Customize](customization)
+- [1 - Setup](setup)
+- [2 - Customize](customization)
+- &nbsp;
 - [![Update](https://icongr.am/clarity/terminal.svg?size=16&color=808080)Update](Update)
 - [![Misc](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](misc)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
-- [![Changelog](https://icongr.am/clarity/tree-view.svg?size=16&color=808080)Changelog](changelog)
+- &nbsp;
+- [![Changelog](https://icongr.am/clarity/certificate.svg?size=16&color=808080)Changelog](changelog)
 - **Links**
 - [![Shopify free trial](https://icongr.am/simple/shopify.svg?size=16&color=95BF47)Shopify free trial](https://openthinking.net/shopify)
 - [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080)OpenThinking](https://openthinking.net/?ref=ghsb)

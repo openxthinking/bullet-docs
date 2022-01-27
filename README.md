@@ -1,5 +1,16 @@
 # [_OpenThinking_](https://openthinking.net/?ref=ghsb)
 
+---
+
+## Run local server:
+
+```
+cd /path/to/docs/
+docsify serve
+```
+
+---
+
 Create professional looking websites in minutes. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions. 
 
 ## OpenThinking Shopify themes built for long-standing businesses.

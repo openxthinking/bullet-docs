@@ -1,4 +1,4 @@
-# Snippets
+# Guides
 
 ## Add custom fonts
 #### Step 1: Upload your font
