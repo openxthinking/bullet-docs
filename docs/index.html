@@ -39,6 +39,11 @@
         --code-inline-border-radius: var(--globalBorder);
     }
 
+    * { scrollbar-width: auto; scrollbar-color: #63696C #1F282D }
+    *::-webkit-scrollbar { width: 15px }
+    *::-webkit-scrollbar-track { background: #1F282D }
+    *::-webkit-scrollbar-thumb { background-color: #63696C; border-radius: 20px; border: 3px solid #1F282D }
+
     .markdown-section .tip, 
     .markdown-section .warn,
     .markdown-section blockquote { border-radius: var(--globalBorder) }
