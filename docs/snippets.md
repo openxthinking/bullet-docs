@@ -24,6 +24,7 @@
 [<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading="lazy" width=150>](video#custom-fonts)
 
 
+
 ## Remove Shopify credits
 
 1. From Shopify admin, navigate to `Online Store > Themes` 
@@ -32,6 +33,80 @@
 1. Delete `{{ powered_by_link }}`
 1. Click `Save`
 
+
+
+## Custom headers
+Change the look of you Header with these snippets.
+
+1. From Shopify admin, navigate to `Online Store > Themes` 
+1. Click `Customize`
+1. Open `Theme settings` and scroll to `Custom code`
+1. In the CSS section, paste the following code:
+
+### Header v1
+
+`Desktop only` Make your central column take all the available space.
+
+![Image square](/_media/snippets-header-v1.png "Custom header version 1")
+
+```css
+@media(min-width:777px) { #header-grid { --grid-tc: auto minmax(0, 1fr) auto } }
+```
+
+
+### Header v2
+
+`Desktop only` Make your central column align to right.
+
+![Image square](/_media/snippets-header-v2.png "Custom header version 2")
+
+```css
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) auto auto } }
+```
+
+
+### Header v3
+
+`Desktop only` Make your central column align to left.
+
+![Image square](/_media/snippets-header-v3.png "Custom header version 3")
+
+```css
+@media(min-width:777px) { #header-grid { --grid-tc: auto auto minmax(0, 1fr) } }
+```
+
+
+### Header v4
+
+`Desktop only` Make the logo column full width and aligned to center.
+
+![Image square](/_media/snippets-header-v4.png "Custom header version 4")
+
+```css
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; border-bottom: var(--globalBorder); padding: var(--padding); border-right: 0!important } }
+```
+
+`Desktop and Mobile` Use this code if you want to have the logo and menu centered on two rows on both Desktop and Mobile.
+
+![<](/_media/snippets-header-v4.png "Custom header version 4")
+![>](/_media/snippets-header-v4-mobile.png "Custom header version 4 mobile")
+
+<span class="clearfix"></span>
+
+```css
+#header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; border-bottom: var(--globalBorder); padding: var(--padding); border-right: 0!important } @media(max-width:777px) { #header-grid c.accounts { grid-column: 1/-1; justify-content: center } }
+``` 
+
+
+### Header v5
+
+`Desktop only` Make the logo column full width and aligned to center.
+
+![Image square](/_media/snippets-header-v5.png "Custom header version 5")
+
+```css
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; order: 99; border-top: var(--globalBorder); padding: var(--padding); border-right: 0!important } }
+```
 
 ## Add inputs to contact form
 
@@ -42,12 +117,12 @@ The optional inputs can be any [HTML input type](https://developer.mozilla.org/e
 1. Click `Actions > Edit Code`
 1. Search for `page-contact` under `sections` and open the file.
 1. Inside the file search for: 
-	```
+	```liquid
 	{%- when '@app' -%}
         <p class="itsapp" {{ block.shopify_attributes }}>{% render block %}</p>
 	```
 1. Right after it, paste your desired code [(see more examples below)](snippets#dropdown-type). Here's a quick example:
-	```
+	```liquid
 	{%- when 'request-type' -%}
 	<p class="request-type">
 		<label for="request-type">...</label>
@@ -58,7 +133,7 @@ The optional inputs can be any [HTML input type](https://developer.mozilla.org/e
 	```
 1. Inside the file search for: `{ "type": "@app" },`
 1. Right after it, paste the following code
-	```
+	```js
 	{ 
 		"type": "fname",
 		"name": "Name", 
@@ -80,7 +155,7 @@ If you, now, want to re-order your newly created input.
 
 ### Dropdown type
 
-```
+```liquid
 {%- when 'request-type' -%}
 <p class="request-type">
 	<label for="request-type">What is this regarding?</label>
@@ -95,7 +170,7 @@ If you, now, want to re-order your newly created input.
 
 ### Radio type
 
-```
+```liquid
 {%- when 'contact-method' -%}
 <p class="contact-method">
 	<label for="contact-method">How do you want us to contact you?</label>
@@ -109,7 +184,7 @@ If you, now, want to re-order your newly created input.
 
 To accept multiple selections, each input in a checkbox group needs to have a unique `name` value. If you don't use a unique `name` value for each input, then the form will only return the last value that was selected.
 
-```
+```liquid
 {%- when 'contact-time' -%}
 <div class="contact-time">
 	<label for="contact-time">When is the best time to reach you?</label>
