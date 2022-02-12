@@ -50,7 +50,7 @@ Change the look of you Header with these snippets.
 ![Image square](/_media/snippets-header-v1.png "Custom header version 1")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: auto minmax(0, 1fr) auto } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(100px, auto) minmax(0, 1fr) auto-fit } }
 ```
 
 
@@ -61,7 +61,7 @@ Change the look of you Header with these snippets.
 ![Image square](/_media/snippets-header-v2.png "Custom header version 2")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) auto auto } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) minmax(200px, auto) minmax(200px, auto) } }
 ```
 
 
@@ -72,7 +72,7 @@ Change the look of you Header with these snippets.
 ![Image square](/_media/snippets-header-v3.png "Custom header version 3")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: auto auto minmax(0, 1fr) } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(200px, auto) minmax(200px, auto) minmax(0, 1fr) } }
 ```
 
 
