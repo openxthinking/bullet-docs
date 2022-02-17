@@ -12,21 +12,21 @@ Yes, have a look at [this guide](snippets#add-custom-fonts).
 
 ---
 
+### Why text breaks mid word?
+
+In order to disable this behaviour, you'll need to follow these steps: 
+
+1. From Shopify admin, navigate to `Online Store > Themes`
+1. Click `Customize`
+1. Open `Theme settings` and scroll to `Custom code`
+1. In the `CSS section`, paste the following code:
+
+```css
+* { overflow-wrap: normal!important; word-break: normal!important }
+```
+---
+
 ### Can I remove Shopify footer credits?
 
 Yes, have a look at [this guide](snippets#remove-shopify-credits).
 
----
-
-### Can't see changes made to app.css
-
-This is because the minified version `app.min.css` is used by your theme. If you want to use `app.css`, you will need to change the reference in your `layout/theme.liquid` file.
-
-
-1. Open &rarr; `layout/theme.liquid`
-1. Locate `{{ 'app.min.css' | asset_url | stylesheet_tag }}`
-1. Replace with `{{ 'app.css' | asset_url | stylesheet_tag }}`
-1. `Save`
-
-
-> This is valid for all files inside the `/assets/` directory.
