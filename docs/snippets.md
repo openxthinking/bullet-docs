@@ -35,6 +35,27 @@
 
 
 
+## Collection page: 2 products per row
+Show 2 products per row instead of 1 on collection pages on `mobile`
+
+<details>
+	<summary>View screenshots</summary>
+	<img src="/_media/snippets-2col-collection.png" alt="Collection page: 2 products per row" loading="lazy">
+	<img src="/_media/snippets-2col-collection2.png" alt="Collection page: 2 products per row" loading="lazy">
+	<span class="clearfix"></span>
+</details>
+
+1. From Shopify admin, navigate to `Online Store > Themes` 
+1. Click `Customize`
+1. Open `Theme settings` and scroll to `Custom code`
+1. In the CSS section, paste the following code:
+
+```css
+@media (max-width: 777px) { .products .product, .products .product #ajaxSection[columns-s="1"] { --grid-tc: repeat(2, minmax(0,1fr))!important } .products .product .card:nth-child(odd) { border-right: var(--globalBorder)!important } .products .quickBuy .cartButton, .quickBuy .productSelect { width: calc(100% - var(--padding)); overflow: hidden } .products .product .itsOverlay flex[jc="between"] { flex-direction: column }.products .product .itsOverlay flex c[as="center"] { align-self: flex-start } }
+```
+
+?> OpenThinking recommends to disable `Quick buy` from `Theme settings > Product card`otherwise buttons are cut out or orverflow because there isn't enough space.
+
 ## Custom headers
 Change the look of you Header with these snippets.
 
@@ -90,7 +111,6 @@ Change the look of you Header with these snippets.
 
 ![<](/_media/snippets-header-v4.png "Custom header version 4")
 ![>](/_media/snippets-header-v4-mobile.png "Custom header version 4 mobile")
-
 <span class="clearfix"></span>
 
 ```css
