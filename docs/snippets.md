@@ -56,6 +56,27 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 
 ?> OpenThinking recommends to disable `Quick buy` from `Theme settings > Product card`otherwise buttons are cut out or orverflow because there isn't enough space.
 
+
+
+## Collection page: 4 or 5 products per row
+Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
+
+1. From Shopify admin, navigate to `Online Store > Themes` 
+1. Click `Customize`
+1. Open `Theme settings` and scroll to `Custom code`
+1. In the CSS section, paste the following code:
+
+##### 4 products per row
+
+```css
+@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(4, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(4n+4) { border-right-color: transparent } }
+```
+
+##### 5 products per row
+```css
+@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(5, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(5n+5) { border-right-color: transparent } }
+```
+
 ## Custom headers
 Change the look of you Header with these snippets.
 
