@@ -92,7 +92,7 @@ Change the look of you Header with these snippets.
 ![Image square](/_media/snippets-header-v1.png "Custom header version 1")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(100px, auto) minmax(0, 1fr) auto-fit } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(100px, auto) minmax(0, 1fr) auto } }
 ```
 
 
