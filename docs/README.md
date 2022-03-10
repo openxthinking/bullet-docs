@@ -24,3 +24,7 @@
 - For custom theme features and enhancements request a [free quotation](https://openthinking.net/help/contact/)
 - For general questions or problems you can post in the [Shopify community forum](https://community.shopify.com/?ref=openthinking1).
 - For direct contact with [Shopify support](https://help.shopify.com/en/questions#/login)
+
+---
+
+<center><a href="https://openthinking.net/help/contact/?utm_source=bulletdocs&utm_medium=banner&utm_campaign=freequote" target="_blank"><img src="/_media/getaquote.svg" height="250" alt="Get a free quote" loading="lazy"></a></center>
