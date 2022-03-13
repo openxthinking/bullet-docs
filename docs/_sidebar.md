@@ -5,6 +5,7 @@
 - [![Misc](https://icongr.am/clarity/layers.svg?size=16&color=808080)Misc](misc)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
+- [![How to](https://icongr.am/clarity/book.svg?size=16&color=808080)How to](howto)
 - [![Video](https://icongr.am/clarity/video-gallery.svg?size=16&color=808080)Video tutorials](video)
 - &nbsp;
 - [![Changelog](https://icongr.am/clarity/certificate.svg?size=16&color=808080)Changelog](changelog)
