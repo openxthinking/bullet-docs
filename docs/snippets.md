@@ -69,7 +69,7 @@ Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 ##### 4 products per row
 
 ```css
-@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(4, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(4n+4) { border-right-color: transparent } }
+@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(4, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(8n+8) { border-right-color: transparent } }
 ```
 
 ##### 5 products per row
