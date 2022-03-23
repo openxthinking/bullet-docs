@@ -1,25 +1,23 @@
 # Guides
 
 ## Add custom fonts
-#### Step 1: Upload your font
-1. From your Shopify admin, navigate to `Settings > Files`
-1. Click `Upload files` and select all your font files.
-1. Keep this page open since you'll need the URLs in `Step 2`.
+#### Step 1: Upload font
+1. From Shopify admin, go to `Settings → Files`
+1. Click `Upload files` and select all your font files
+1. Keep this page open since you'll need the URLs in `Step 2`
+
 
 #### Step 2: Prepare your font
-1. From Shopify admin, navigate to `Online Store > Themes` click `Actions` then `Edit Code`.
+1. From Shopify admin, go to `Online Store → Themes` click `Actions` then `Edit Code`.
 1. Search for `global-fonts` under `snippets` and open the file.
-1. Replace `Your-Font-Name` with your font name. e.g. `Inter`
-1. Replace `font-Url-*` with URL to the respective font file. For instance if your font has only `.woff` and `.woff2`, replace them accordingly.
-1. When you're done `Save`.
+1. Use OpenThinking [@font-face generator](https://openthinking.app/x/font-face-generator/) to generate the needed code
+1. When you're done click `Save`
 
-?> Or you can use our [@font-face generator](https://openthinking.app/x/font-face-generator/) to generate the needed code.
 
-#### Step 3: Load font into your theme
+#### Step 3: Load font into theme
 1. Search for `theme` under `layout` and open the file.
 1. Copy the following code: `{%- render 'global-fonts' -%}` and Paste it right after `{%- render 'global-css-vars' -%}`
-1. When you're done `Save` 
-1. You're good to go!
+1. When you're done click `Save` 
 
 [<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading="lazy" width=150>](video#custom-fonts)
 
@@ -27,8 +25,8 @@
 
 ## Remove Shopify credits
 
-1. From Shopify admin, navigate to `Online Store > Themes` 
-1. Click `Actions > Edit Code`
+1. From Shopify admin, go to `Online Store → Themes` 
+1. Click `Actions → Edit Code`
 1. Search for `global-otlbl` under `snippets` and open the file.
 1. Delete `{{ powered_by_link }}`
 1. Click `Save`
@@ -45,7 +43,7 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 	<span class="clearfix"></span>
 </details>
 
-1. From Shopify admin, navigate to `Online Store > Themes` 
+1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
 1. Open `Theme settings` and scroll to `Custom code`
 1. In the CSS section, paste the following code:
@@ -61,7 +59,7 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 ## Collection page: 4 or 5 products per row
 Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 
-1. From Shopify admin, navigate to `Online Store > Themes` 
+1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
 1. Open `Theme settings` and scroll to `Custom code`
 1. In the CSS section, paste the following code:
@@ -80,7 +78,7 @@ Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 ## Custom headers
 Change the look of you Header with these snippets.
 
-1. From Shopify admin, navigate to `Online Store > Themes` 
+1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
 1. Open `Theme settings` and scroll to `Custom code`
 1. In the CSS section, paste the following code:
@@ -154,8 +152,8 @@ Change the look of you Header with these snippets.
 The optional inputs can be any [HTML input type](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types). They need to have an attribute of `name="contact[information_id]"`, where `information_id` briefly identifies the information that you're collecting. These titles appear in contact notifications, and must be unique within the form.
 
 
-1. From Shopify admin, navigate to `Online Store > Themes` 
-1. Click `Actions > Edit Code`
+1. From Shopify admin, go to `Online Store → Themes` 
+1. Click `Actions → Edit Code`
 1. Search for `page-contact` under `sections` and open the file.
 1. Inside the file search for: 
 	```liquid
