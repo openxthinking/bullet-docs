@@ -89,6 +89,22 @@ You can control the appearance of your Product cards and pick between different 
 
 Product cards are used in pages such as `collections` and `related prodcuts`.
 
+##### Image on hover
+
+1. From `Shopify admin`, go to `Online store > Theme`
+1. Click `Customize`
+1. Click `Theme settings` then `Product card`
+1. Click on `Show variant image on hover` to enable 
+1. `Save` 
+
+<details>
+	<summary>Visual guide</summary>
+	
+![Image](/_media/os_customize.png)
+![Image](/_media/product-card_activate_img_hover.png)
+
+</details>
+
 ---
 #### Newsletter
 This is a built-in Newsletter pop-up. You can control the appearance and its functions.
@@ -109,7 +125,7 @@ For this banner to work you need to first activate `Customer privacy` through Sh
 
 ---
 #### Analytics
-In this secction you can add your Pinterest pixel, TikTok pixel and Other pixels and trackers.
+In this section you can add your Pinterest pixel, TikTok pixel and Other pixels and trackers.
 
 ?> Trackers will slow down your website.
 
