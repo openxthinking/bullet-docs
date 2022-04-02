@@ -1,6 +1,11 @@
 # Guides
 
 ## Add custom fonts
+
+?> Before you proceed with this tutorial, make sure you've the correct license for the font you are going to use and that it is intended for use on a commercial website. Purchase the webfont version of the font.
+
+!> The font files must include the WOFF and WOFF2 file types (EOT, TTF and OTF are not a webfont file types). 
+
 #### Step 1: Upload font
 1. From Shopify admin, go to `Settings → Files`
 1. Click `Upload files` and select all your font files
@@ -15,11 +20,11 @@
 
 
 #### Step 3: Load font into theme
-1. Search for `theme` under `layout` and open the file.
-1. Copy the following code: `{%- render 'global-fonts' -%}` and Paste it right after `{%- render 'global-css-vars' -%}`
-1. When you're done click `Save` 
-
-[<img src="https://raw.githubusercontent.com/openxthinking/master-docs/master/docs/_media/vta.svg" alt="Video tutorial" loading="lazy" width=150>](video#custom-fonts)
+1. From Shopify admin, go to `Online Store → Themes` 
+1. Click `Customize`
+1. Open `Theme settings` and scroll to `Typography`
+1. Click `Enable custom fonts`
+1. Done
 
 
 
