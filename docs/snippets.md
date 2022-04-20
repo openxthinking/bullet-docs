@@ -41,6 +41,8 @@
 ## Collection page: 2 products per row
 Show 2 products per row instead of 1 on collection pages on `mobile`
 
+!> This is available out-of-the-box from Bullet. v2.1.0 and up
+
 <details>
 	<summary>View screenshots</summary>
 	<img src="/_media/snippets-2col-collection.png" alt="Collection page: 2 products per row" loading="lazy">
@@ -54,15 +56,17 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 1. In the CSS section, paste the following code:
 
 ```css
-@media (max-width: 777px) { .products .product, .products .product #ajaxSection[columns-s="1"] { --grid-tc: repeat(2, minmax(0,1fr))!important } .products .product .card:nth-child(odd) { border-right: var(--globalBorder)!important } .products .quickBuy .cartButton, .quickBuy .productSelect { width: calc(100% - var(--padding)); overflow: hidden } .products .product .itsOverlay flex[jc="between"] { flex-direction: column }.products .product .itsOverlay flex c[as="center"] { align-self: flex-start } }
+@media (max-width: 777px) { .products .product, .products .product #ajaxSection[columns-s="1"] { --grid-tc: repeat(2, minmax(0,1fr))!important } .products .product .card:nth-child(odd) { border-right: var(--globalBorder)!important } .products .quickBuy .cartButton, .quickBuy .productSelect { width: calc(100% - var(--padding)); overflow: hidden } .products .product .itsOverlay flex[jc="between"] { flex-direction: column }.products .product .itsOverlay flex c[as="center"] { align-self: flex-start }.product .card.v2 .prodtitle { font-size: 1.3rem }.product .card.v2 a { width: 48.5vw } }
 ```
 
-?> OpenThinking recommends to disable `Quick buy` from `Theme settings > Product card`otherwise buttons are cut out or orverflow because there isn't enough space.
+?> OpenThinking recommends to disable `Quick buy` from `Theme settings > Product card` otherwise buttons are cut out or orverflow because there isn't enough space.
 
 
 
 ## Collection page: 4 or 5 products per row
 Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
+
+!> This is available out-of-the-box from Bullet. v2.1.0 and up
 
 1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
@@ -79,6 +83,7 @@ Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 ```css
 @media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(5, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(5n+5) { border-right-color: transparent } }
 ```
+
 
 ## Custom headers
 Change the look of you Header with these snippets.
