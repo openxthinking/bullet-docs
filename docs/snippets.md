@@ -4,7 +4,7 @@
 
 ?> Before you proceed with this tutorial, make sure you've the correct license for the font you are going to use and that it is intended for use on a commercial website. Purchase the webfont version of the font.
 
-!> The font files must include the WOFF and WOFF2 file types (EOT, TTF and OTF are not a webfont file types). 
+!> The font files must include the WOFF and WOFF2 file types (EOT, TTF and OTF are not webfont file types).
 
 #### Step 1: Upload font
 1. From Shopify admin, go to `Settings → Files`
@@ -16,7 +16,7 @@
 1. From Shopify admin, go to `Online Store → Themes` click `Actions` then `Edit Code`.
 1. Search for `global-fonts` under `snippets` and open the file.
 1. Use OpenThinking [@font-face generator](https://openthinking.app/x/font-face-generator/) to generate the needed code
-1. When you're done click `Save`
+1. When you're done click <kbd>Save</kbd>
 
 
 #### Step 3: Load font into theme
@@ -34,14 +34,14 @@
 1. Click `Actions → Edit Code`
 1. Search for `global-otlbl` under `snippets` and open the file.
 1. Delete `{{ powered_by_link }}`
-1. Click `Save`
+1. Click <kbd>Save</kbd>
 
 
 
 ## Collection page: 2 products per row
 Show 2 products per row instead of 1 on collection pages on `mobile`
 
-!> This is available out-of-the-box from Bullet. v2.1.0 and up
+!> This is available out-of-the-box in Bullet. v2.1.0 and up
 
 <details>
 	<summary>View screenshots</summary>
@@ -66,7 +66,7 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 ## Collection page: 4 or 5 products per row
 Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 
-!> This is available out-of-the-box from Bullet. v2.1.0 and up
+!> This is available out-of-the-box in Bullet. v2.1.0 and up
 
 1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
@@ -190,7 +190,7 @@ The optional inputs can be any [HTML input type](https://developer.mozilla.org/e
 	```
 	- replace `"fname"` with your input name.
 	- replace `"Name"` with you input name.
-1. Click `Save`
+1. Click <kbd>Save</kbd>
 
 
 
