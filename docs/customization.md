@@ -83,11 +83,26 @@ Add links to your social media profiles. These usually shows inside the footer o
 #### Breadcrumbs
 Show a breadcrumbs bar underneath the header.
 
+1. From `Shopify admin`, go to `Online store > Theme`
+1. Click `Customize`
+1. Click `Theme settings` then `Breadcumbs`
+1. Toggle `Enable` to Enable/disable breadcrumbs. 
+1. `Save` 
+
 ---
-#### Product card
+### Product card
 You can control the appearance of your Product cards and pick between different types of layouts and option.
 
 Product cards are used in pages such as `collections` and `related prodcuts`.
+
+#### Badges
+
+| Badge            | Description                                                                                															|	
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sold out         | badges will appear automatically if a product has the inventory at 0.                                                                                  |
+| Sale             | badges will appear automatically when using the "compare at price" option for a product page (please make sure that the old price has a higher value). |
+| New & Preorder   | badges will appear if you tag a product `new` or `preorder`, the tag you are using needs to match perfectly, so make sure to spell it right.           |
+
 
 ##### Image on hover
 
@@ -98,16 +113,17 @@ Product cards are used in pages such as `collections` and `related prodcuts`.
 1. `Save` 
 
 <details>
-	<summary>Visual guide</summary>
+<summary>Visual guide</summary>
 	
-![Image](/_media/os_customize.png)
-![Image](/_media/product-card_activate_img_hover.png)
-
+<img src="/_media/os_customize.png" alt="">
+<img src="/_media/product-card_activate_img_hover.png" alt="">
 </details>
 
 ---
 #### Newsletter
 This is a built-in Newsletter pop-up. You can control the appearance and its functions.
+
+
 
 ---
 #### Cookies
@@ -164,6 +180,7 @@ To add a new Section: Click `Add section` and select the desired one from the dr
 | Blog posts          | Will display the latest articles from the selected blog.                            |
 | Featured collection | Will display the latest products from the selected collection.                      |
 | Hero banner         | A page hero allowing for a full screen width image.                                 |
+| Hero video 		  | Same as "Hero banner" but for videos. 												|
 | Hero multicolumn    | A split page hero allowing 2 images per row. For a total of 4 images.               |
 | Logo list           | A list of 5 images with links.                                                      |
 | Featured product    | Will display a specific product. Great if you have a product you want to highlight. |
@@ -447,3 +464,6 @@ Now all you’ve got to do is create a brand’s page and change the template to
 1. Once you're done > `Save`
 
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#brand-listing)
+
+
+### Brand listing page
