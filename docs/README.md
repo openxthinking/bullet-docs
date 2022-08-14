@@ -2,7 +2,7 @@
 
 ## Getting started
 
-🚀 We've create a straightforward __2-step-guide__ for you to get started with your new theme!
+🚀 We've created a straightforward __2-step-guide__ for you to get started with your new theme!
 
 1. [Setup](setup)
 1. [Customize](custom)

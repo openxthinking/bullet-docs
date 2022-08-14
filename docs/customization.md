@@ -17,8 +17,8 @@ The theme editor includes a theme preview and a toolbar that you can use to add 
 #### Editor overview
 The theme editor toolbar (on the left) is divided into `Sections` and `Theme settings`.
 
-- You can use [theme sections](#theme-sections) to enhance, re-arrange the content and layout of the different pages on your store. 
-- You can use [theme settings](#theme-settings) to customize your store's appearance, and make changes to your social media links and checkout settings.
+- You can use [theme sections](#theme-sections) to enhance and re-arrange the content and layout of the different pages on your store. 
+- You can use [theme settings](#theme-settings) to customize your store's appearance and make changes to your social media links and checkout settings.
 
 
 #### Open editor
@@ -46,9 +46,9 @@ Control the color scheme for different areas of your store.
 
 - Text color for Body, Links, Headings
 - Page background and border color
-- Buttons background, text and border colors
-- The Buy button background, text and border colors
-- Forms input fields' background, text and border colors
+- Buttons background, text, and border colors
+- The Buy button background, text, and border colors
+- Forms input fields' background, text, and border colors
 
 ---
 #### Typography
@@ -61,11 +61,11 @@ Choose the font styles for your store content.
 
 ---
 #### Favicon
-A favicon image is what you see in browser tabs, bookmarks and search results. Favicons should be at least `32x32px`. `.png` files are recommended.
+A favicon image is what you see in browser tabs, bookmarks, and search results. Favicons should be at least `32x32px`. `.png` files are recommended.
 
 
 #### SEO
-We provide a SEO Engine for your store out of the box. In order to display the right information you need to it set-up.
+We provide an SEO Engine for your store out of the box. In order to display the right information, you need to set it up.
 
 - **HTML compression (WarpDrive)**: This will minify the HTML of your site and reduce the overall page size resulting in faster site loading. 
 
@@ -73,7 +73,7 @@ We provide a SEO Engine for your store out of the box. In order to display the r
 
 ---
 #### Social media
-Add links to your social media profiles. These usually shows inside the footer or other parts of the theme.
+Add links to your social media profiles. These usually show inside the footer or other parts of the theme.
 
 - **Show icons**: Show social media icons instead of text.
 
@@ -91,7 +91,7 @@ Show a breadcrumbs bar underneath the header.
 
 ---
 ### Product card
-You can control the appearance of your Product cards and pick between different types of layouts and option.
+You can control the appearance of your Product cards and pick between different types of layouts and options.
 
 Product cards are used in pages such as `collections` and `related prodcuts`.
 
@@ -130,7 +130,7 @@ This is a built-in Newsletter pop-up. You can control the appearance and its fun
 A built-in Cookie banner. You can control the appearance and its functions.
 
 
-For this banner to work you need to first activate `Customer privacy` through Shopify admin.
+For this banner to work, you need to first activate `Customer privacy` through Shopify admin.
 
 1. From Shopify admin, go to [Online store > Preferences](https://www.shopify.com/admin/online_store/preferences)
 1. Scroll to `Customer privacy` 
@@ -141,7 +141,7 @@ For this banner to work you need to first activate `Customer privacy` through Sh
 
 ---
 #### Analytics
-In this section you can add your Pinterest pixel, TikTok pixel and Other pixels and trackers.
+In this section, you can add your Pinterest pixel, TikTok pixel, and Other pixels and trackers.
 
 ?> Trackers will slow down your website.
 
@@ -149,14 +149,14 @@ In this section you can add your Pinterest pixel, TikTok pixel and Other pixels 
 #### Custom code
 If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom code` section for your custom CSS & JS code.
 
-- **CSS**: CSS code will be loaded in site's head and will be available sitewide on all pages. ⚠️ Do not include `<style></style>` tag.
-- **JavaScript**: JavaScript will be loaded in site's footer and will be available sitewide on all pages. ⚠️ Do not include `<script></script>` tag.
+- **CSS**: CSS code will be loaded in the site's head and will be available sitewide on all pages. ⚠️ Do not include `<style></style>` tag.
+- **JavaScript**: JavaScript will be loaded in the site's footer and will be available sitewide on all pages. ⚠️ Do not include `<script></script>` tag.
 
 ---
 #### Theme styles
 All Shopify themes include a selection of `Theme presets`. A theme preset is simply a pre-defined selection of theme settings that have been configured to show a particular appearance of theme content.
 
-Changing your theme's style will affect both the settings and look and feel of your store.
+Changing your theme's style will affect both the settings and the look and feel of your store.
 
 ?> Some settings will be lost when you change your style, but you will not lose any content from your store.
 
@@ -175,30 +175,30 @@ To add a new Section: Click `Add section` and select the desired one from the dr
 
 | Section             | Description                                                                         |
 |---------------------|-------------------------------------------------------------------------------------|
-| Custom HTML         | Use this section to inject HTML, CSS and JavaScript inside your theme.              |
+| Custom HTML         | Use this section to inject HTML, CSS, and JavaScript inside your theme.              |
 | Custom Liquid       | Use this section to inject Liquid code inside your theme.                           |
 | Blog posts          | Will display the latest articles from the selected blog.                            |
 | Featured collection | Will display the latest products from the selected collection.                      |
-| Hero banner         | A page hero allowing for a full screen width image.                                 |
+| Hero banner         | A page hero allowing for a full-screen width image.                                 |
 | Hero video 		  | Same as "Hero banner" but for videos. 												|
 | Hero multicolumn    | A split page hero allowing 2 images per row. For a total of 4 images.               |
 | Logo list           | A list of 5 images with links.                                                      |
 | Featured product    | Will display a specific product. Great if you have a product you want to highlight. |
-| Image with text     | Will display an image alongside a title, text and button.                           |
-| FAQ                 | Add a selection of Frequently Asked Question.                                       |
-| Hero text           | A text only hero banner with a button.                                              |
+| Image with text     | Will display an image alongside a title, text, and button.                           |
+| FAQ                 | Add a selection of Frequently Asked Questions.                                       |
+| Hero text           | A text-only hero banner with a button.                                              |
 | Reviews             | Add customer testimonials/reviews to your store.                                    |
-| Video               | A hero banner displaying an YouTube or Vimeo fullscreen.                            |
+| Video               | A hero banner displaying a YouTube or Vimeo fullscreen.                            |
 
 
 #### Header
 
-Control the appearance of theme's Header. Add, remove or re-arrange header blocks.
+Control the appearance of the theme's Header. Add, remove or re-arrange header blocks.
 
 ##### Header
 | Section                   | Description                                                  |
 |---------------------------|--------------------------------------------------------------|
-| Enable sticky header      | Make theme's header stick when the users is scrolling down.  |
+| Enable sticky header      | Make the theme's header stick when the user is scrolling down.  |
 | Enable borders            | Enable borders to define the different blocks in the header. |
 | Show search               | Display the search button.                                   |
 | Show link to user account | Display a link to user accounts.                             |
@@ -227,7 +227,7 @@ Add, remove or re-arrange your footer.
 
 | Section                        | Description                                                            |
 |--------------------------------|------------------------------------------------------------------------|
-| Show payment icons             | Display the type of payment services your store accepts. By default your theme shows the icons that are associated with the payment gateway you have enabled in the payment settings. |
+| Show payment icons             | Display the type of payment services your store accepts. By default, your theme shows the icons that are associated with the payment gateway you have enabled in the payment settings. |
 | Enable country/region selector | Let your customers select their country/region and currency.             |
 | Enable language selector       | Let your customers select their native language. ⚠️ You'll need to manually translate your theme. [Learn how](https://help.shopify.com/en/manual/online-store/themes/customizing-themes/language/translate-theme?ref=openthinking1) to translate your theme.
 
@@ -236,25 +236,25 @@ Add, remove or re-arrange your footer.
 
 | Section             | Description |
 |---------------------|----------------------------------------------------------------------------------|
-| About your business | Use this to add additional information about your business, e.g. address, opening hours etc.                 |
+| About your business | Use this to add additional information about your business, e.g. address, opening hours, etc.                 |
 | Newsletter          | Subscribers will be added to your “accepts marketing” customer list.                                         |
 | Footer menu         | Select the menu with the links you want to display in your footer navigation. And links to your Legal pages. |
-| Social media        | Display links to your social media accounts. The link are defined inside `Theme settings > Social media`     |
+| Social media        | Display links to your social media accounts. The link is defined inside `Theme settings > Social media`     |
 
 
 ## Images 
 
-?> Images are the most important part of your store. Professional, consistent, high resolution, optimized images are a must. Make sure your images follow these points before uploading images to your Shopify store.
+?> Images are the most important part of your store. Professional, consistent, high-resolution, optimized images are a must. Make sure your images follow these points before uploading images to your Shopify store.
 
 
 #### Image size
 
-Themes look better when using *high resolution images*. Smaller resolution images will suffer and make your site look unprofessional.  
+Themes look better when using *high-resolution images*. Smaller resolution images will suffer and make your site look unprofessional.  
 
 
 #### Aspect ratio
 
-Using a consistent aspect ratio for all the images of a particular type makes them display better side by side, because they all display as the same size. For example, if you want your product images to display as the same size within a collection, then they need to have the same aspect ratio.
+Using a consistent aspect ratio for all the images of a particular type makes them display better side by side because they all display as the same size. For example, if you want your product images to display the same size within a collection, they need to have the same aspect ratio.
 
 You can use the image editor to crop your images to have the same aspect ratio. Or even better prepare your images before uploading them to your Shopify store.
 
@@ -266,7 +266,7 @@ Use `PNG` images if you need to have a transparent background.
 
 #### Image optimization
 
-Unfortunately, the larger the image on your ecommerce website, the slower the page load speed. 
+Unfortunately, the larger the image on your eCommerce website, the slower the page load speed. 
 
 Many shoppers aren’t willing to wait around for an online store that isn’t loading fast enough. So, it’s vital that you optimize your images to achieve the best quality possible but also keep an eye on the page load speed.
 
@@ -283,10 +283,10 @@ Here're 3 online services that will help you optimize your images for FREE:
 Tips for the perfect image.
 
 - The product pictures should be appealing.
-- Plain white backgrounds are always better to view the image.
-- Use a mannequin or model to display for products like clothes, accessories etc.
+- Plain white backgrounds are always better for viewing the image.
+- Use a mannequin or model to display products like clothes, accessories, etc.
 - The product should have different angular images for better interpretation and not just one.
-- Use only high resolution images. Image should never be blurred or pixelated.
+- Use only high-resolution images. The image should never be blurred or pixelated.
 - Using a consistent aspect ratio for all the images.
 
 ---
@@ -298,7 +298,7 @@ Tips for the perfect image.
 
 ![Image landscape](/_media/image-landscape.png "Image landscape")
 
-Typically used for banner images shown at full screen width. 
+Typically used for banner images shown at full-screen width. 
 **Hero banner, Video hero**
 
 | | |
@@ -357,9 +357,9 @@ Typically used for **Header logo, Logo list, Press page**
 ---
 
 #### Product image
-Recommended size for your product images. 
+The recommended size for your product images. 
 
-Depending the `Product card` aspect ratio you chose, located the right table.
+Depending on the `Product card` aspect ratio you chose, located the right table.
 
 ##### for Portrait
 
@@ -413,7 +413,7 @@ Size for collection featured banner image.
 To populate your Homepage with content follow the steps below
 
 1. We're in the [Theme editor](#launch-the-editor)
-1. Make sure you're in `Home page` from the top bar drop-down menu
+1. Make sure you're on `Home page` from the top bar drop-down menu
 1. On the left in the `Sections`
 1. Click `Add section` 
 1. Select one of the `Sections` then click `Add`
@@ -422,7 +422,7 @@ To populate your Homepage with content follow the steps below
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#customize-homepage)
 
 ### Other pages settings
-In order for pages such as FAQ, Press, Contact, About etc. to work as intended, you'll need to add the content via `Theme editor`.
+In order for pages such as FAQ, Press, Contact, About, etc. to work as intended, you'll need to add the content via `Theme editor`.
 
 1. We're in the [Theme editor](#launch-the-editor)
 1. Make sure you're in the right place by checking the `"NAME" page` from the top bar drop-down menu
@@ -434,10 +434,10 @@ In order for pages such as FAQ, Press, Contact, About etc. to work as intended, 
 
 ### Brand listing page
 
-All our themes come with Brand listing pages available out-of-the-box. Follow the step-by-step guide below to active your Brand listing page.
+All our themes come with Brand listing pages available out of the box. Follow the step-by-step guide below to activate your Brand listing page.
 
 
-#### step 1: Create collections
+#### Step 1: Create collections
 1. From Shopify admin, go to [Products > Collections](https://shopify.com/admin/collections/?ref=openthinking1)
 1. Click `Create collection` 
 1. Enter `Title`, `Description` and upload an `image`
@@ -445,11 +445,11 @@ All our themes come with Brand listing pages available out-of-the-box. Follow th
 1. In `CONDITIONS` change `Product type` to `Product vendor` 
 1. In the blank input field type the name of the brand
 
-#### step 2: Create a link list within the navigation
+#### Step 2: Create a link list within the navigation
 1. From Shopify admin, go to [Online store > Navigation](https://shopify.com/admin/menus/?ref=openthinking1)
 1. Click `Add menu` 
 1. In `Title` type `Brands` and leave `Handle` to `brands`
-1. From `Add menu item` select all your Brands you created.
+1. From `Add menu item` select all the Brands you have created.
 1. You can re-order easily with drag-and-drop.
 1. Once you're done > `Save menu`
 
@@ -464,6 +464,3 @@ Now all you’ve got to do is create a brand’s page and change the template to
 1. Once you're done > `Save`
 
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#brand-listing)
-
-
-### Brand listing page

@@ -18,7 +18,7 @@ Here's how to give OpenThinking access to your store.
 
 
 - Q: __What should I do when I'm finished working with OpenThinking?__
-- A: If you don't need any more help from us, then you can delete our account. (see how in the "Delete OpenThinking" tab)
+- A: If you don't need more help from us, you can delete our account. (see how in the "Delete OpenThinking" tab)
 
 #### **Delete OpenThinking**
 
@@ -26,7 +26,7 @@ Here's how to give OpenThinking access to your store.
 
 Delete OpenThinking account:
 1. Log in as the store owner.
-1. From your Shopify admin, click Settings, and then click Plan and permissions.
+1. From your Shopify admin, click Settings and then click Plan and permissions.
 1. In the Collaborators section, click on `OpenThinking`.
 1. In the Remove collaborator account section, click Delete collaborator account or Remove collaborator account.
 1. In the confirmation dialog, click Delete.

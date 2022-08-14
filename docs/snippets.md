@@ -2,9 +2,9 @@
 
 ## Add custom fonts
 
-?> Before you proceed with this tutorial, make sure you've the correct license for the font you are going to use and that it is intended for use on a commercial website. Purchase the webfont version of the font.
+?> Before you proceed with this tutorial, make sure you have the correct license for the font you are going to use and that it is intended for use on a commercial website. Purchase the Webfont version of the font.
 
-!> The font files must include the WOFF and WOFF2 file types (EOT, TTF and OTF are not webfont file types).
+!> The font files must include the WOFF and WOFF2 file types (EOT, TTF, and OTF are not Webfont file types).
 
 #### Step 1: Upload font
 1. From Shopify admin, go to `Settings → Files`
@@ -59,7 +59,7 @@ Show 2 products per row instead of 1 on collection pages on `mobile`
 @media (max-width: 777px) { .products .product, .products .product #ajaxSection[columns-s="1"] { --grid-tc: repeat(2, minmax(0,1fr))!important } .products .product .card:nth-child(odd) { border-right: var(--globalBorder)!important } .products .quickBuy .cartButton, .quickBuy .productSelect { width: calc(100% - var(--padding)); overflow: hidden } .products .product .itsOverlay flex[jc="between"] { flex-direction: column }.products .product .itsOverlay flex c[as="center"] { align-self: flex-start }.product .card.v2 .prodtitle { font-size: 1.3rem }.product .card.v2 a { width: 48.5vw } }
 ```
 
-?> OpenThinking recommends to disable `Quick buy` from `Theme settings > Product card` otherwise buttons are cut out or orverflow because there isn't enough space.
+?> OpenThinking recommends disabling `Quick buy` from `Theme settings > Product card` otherwise buttons are cut out or overflow because there isn't enough space.
 
 
 
@@ -86,7 +86,7 @@ Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
 
 
 ## Custom headers
-Change the look of you Header with these snippets.
+Change the look of your Header with these snippets.
 
 1. From Shopify admin, go to `Online Store → Themes` 
 1. Click `Customize`
@@ -157,9 +157,9 @@ Change the look of you Header with these snippets.
 @media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; order: 99; border-top: var(--globalBorder); padding: var(--padding); border-right: 0!important } }
 ```
 
-## Add inputs to contact form
+## Add inputs to the contact form
 
-The optional inputs can be any [HTML input type](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types). They need to have an attribute of `name="contact[information_id]"`, where `information_id` briefly identifies the information that you're collecting. These titles appear in contact notifications, and must be unique within the form.
+The optional inputs can be any [HTML input type](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types). They need to have an attribute of `name="contact[information_id]"`, where `information_id` briefly identifies the information that you're collecting. These titles appear in contact notifications and must be unique within the form.
 
 
 1. From Shopify admin, go to `Online Store → Themes` 
@@ -231,7 +231,7 @@ If you, now, want to re-order your newly created input.
 
 ### Checkbox type
 
-To accept multiple selections, each input in a checkbox group needs to have a unique `name` value. If you don't use a unique `name` value for each input, then the form will only return the last value that was selected.
+To accept multiple selections, each input in a checkbox group must have a unique `name` value. If you don't use a unique `name` value for each input, then the form will only return the last value that was selected.
 
 ```liquid
 {%- when 'contact-time' -%}
