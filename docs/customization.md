@@ -56,6 +56,7 @@ Choose the font styles for your store content.
 
 - Body font family and size.
 - Headings font family and size and if you want your Headings to be uppercase or lowercase.
+- Learn how to install your [Custom fonts](/snippets?id=add-custom-fonts)
 
 !> Selecting multiple fonts can affect the speed of your store. [Learn more about system fonts](https://help.shopify.com/en/manual/online-store/store-speed/improving-speed#fonts?ref=openthinking1).
 

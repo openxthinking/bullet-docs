@@ -1,5 +1,5 @@
-# Setup
-Here’s a quick setup you need to do before moving to the customization of your new OpenThinking theme.
+# Set up
+Here’s a quick set up you need to do before moving to the customization of your new OpenThinking theme.
 
 
 ### External links
@@ -34,7 +34,7 @@ OpenThinking themes come with custom layouts for common pages such as _Contact, 
   1. Select a template for your page: `page.about`, `page.contact` etc.
   1. Click `Save`.
 
-#### 2. Add the content
+#### 2. Add content
 
   1. From Shopify admin, go to [Online Store > Themes](https://www.shopify.com/admin/themes?ref=openthinking1&utm_campaign=docs).
   1. Locate your OpenThinking theme
@@ -48,6 +48,32 @@ OpenThinking themes come with custom layouts for common pages such as _Contact, 
 ?> Even if your new webpage is visible, it won't appear in your online store's navigation automatically. You'll need to add a link to it in a menu manually.
 
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#pages)
+
+
+### Coming soon
+
+You can restrict customer access to your online store by enabling the password page. The password page is a landing page that prevents users from accessing other pages on your store. You can create a password and give it to customers that you want to enter your store.
+
+#### Enable
+
+1. From your Shopify admin, go to `Online Store > Preferences`.
+1. Scroll to the Password protection area, and check `Enable password`.
+1. In Password, enter the storefront password that you'll give to the customers who you want to be able to access your online store. ⚠️ Don't use the same password that you use to log into your admin.
+1. Save
+
+#### Customize
+You can edit the content that shows on your password page, such as the text, colors, and typography.
+
+1. From `Shopify admin`, go to `Online Store → Themes`
+1. Click <kbd>Customize</kbd>
+1. Open the drop-down menu at the top of the page
+1. Select `Password page`
+1. On the left you can customize your coming soon page.
+1. <kbd>Save</kbd>
+
+##### External links 
+- [Password page](https://help.shopify.com/en/manual/online-store/themes/password-page)
+
 
 ## Navigation
 
