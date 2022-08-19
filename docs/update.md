@@ -14,7 +14,9 @@ If you purchase your theme through the official Shopify theme store, you will be
 
 1. From Shopify admin, go to `Online Store → Themes`
 1. Locate `Bullet`, then click <span style="color:#458FFF;font-size:3rem;line-height:0;position:relative;top:7px">&bull;</span> Bullet version x.y.z available.
+
 ![Update theme](/_media/update_admin_notification_new_version.png "Update theme")
+
 1. Click <kbd>Add to theme library</kbd>
 1. This will install a “fresh” copy of the theme in an unpublished state on your store. 
 
@@ -31,10 +33,52 @@ A new version message may occasionally not appear in the Shopify admin area. Tak
 1. Click <kbd>Add latest theme version</kbd> or&nbsp; <kbd>Add theme</kbd>
 1. This will install a “fresh” copy of the theme in an unpublished state on your store.
 
+
 ## Step 2: Set up
 While some basic information, such as your store name, collections, and product names will appear in this version if you preview it using the <kbd>actions</kbd> menu for the unpublished version, you’ll likely notice that your theme is in its default state.
 
-You’ll need to go through and manually customize your theme again, and select options such as fonts and other settings within the Theme editor under <kbd>Customize</kbd> — as well as rebuild any sections.
+### Theme editor
+?> This method is recommended. You won't run into errors or incompatibilities.
+
+You will need to go through and manually customize your theme again. Select options such as fonts, colors, and other settings within the Theme editor under <kbd>Customize</kbd> — as well as rebuild any sections on the home page and all other page you use. Treat it like it's a new theme installation.
+
+### File migration
+!> Not recommended. You might run into potential errors and/or incompatibilities.
+
+!> We do not provide support for this method if an error arise.
+
+This method requires you to copy the code from your old theme's files into your new theme's version files.
+
+#### From old version
+
+1. From `Shopify admin`, locate your currently published theme 
+1. Go to `Actions → Edit code`
+1. In the `search bar` type `settings_data.json`
+1. Open the file, then `Select` and `copy` all the code inside
+
+#### To new version
+
+1. From `Shopify admin`, locate your theme you installed in [Step 1](#step-1-update)
+1. Go to `Actions → Edit code`
+1. In the `search bar` type `settings_data.json`
+1. Open the file, then `Select` and `delete` all of the code inside
+1. `Paste` the code that you copied in the previous step
+
+#### Next 
+Repeat the previous steps for all the files inside the `templates` directory that have a _dot next to their names_.
+
+Files that you need to copy.
+```
+Bullet
+├── ▼ Config
+│   └── settings_data.json
+└── ▼ Templates
+    ├── • index.json
+    └── ... All files with a DOT next to their name
+```
+
+![Update theme](/_media/update_edited_template_files.png "Update theme")
+
 
 ## Step 3: Publish
 Test the new theme extensively and make sure everything works as expected. Once you're ready, simply publish the new theme as the main theme.
