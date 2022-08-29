@@ -1,5 +1,7 @@
 # Theme updates
 
+!> Theme updates are not supported by OpenThinking support.
+
 ?> When no code changes have been made to your theme (by you or any installed apps) and no new settings have been added, Shopify themes will only update automatically.
 
 ?> Shopify isn't designed to transfer over certain setups and settings, therefore the only way to get past this is to manually go through and update each setting one by one.
