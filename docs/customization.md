@@ -138,7 +138,7 @@ For this banner to work, you need to first activate `Customer privacy` through S
 1. Click `Activate` in the GDPR block.
 1. Click `Save`
 
-?> This cookie banner is not fully GDPR complaint. For a more robust GDPR/CCPA solution consider an [app](https://apps.shopify.com/search?q=GDPR+cookies+banner&pricing=free&sort_by=installed&ref=openthinking1#AccordionItem16).
+?> This cookie banner is not fully GDPR compliant. For a more robust GDPR/CCPA solution consider an [app](https://apps.shopify.com/search?q=GDPR+cookies+banner&pricing=free&sort_by=installed&ref=openthinking1#AccordionItem16).
 
 ---
 #### Analytics
@@ -148,7 +148,7 @@ In this section, you can add your Pinterest pixel, TikTok pixel, and Other pixel
 
 ---
 #### Custom code
-If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use the `Custom code` section for your custom CSS & JS code.
+If you want to update your theme in the future, we suggest that you do not edit theme files manually or you might lose your edits. Instead use, `Custom code` section for your custom CSS & JS code.
 
 - **CSS**: CSS code will be loaded in the site's head and will be available sitewide on all pages. ⚠️ Do not include `<style></style>` tag.
 - **JavaScript**: JavaScript will be loaded in the site's footer and will be available sitewide on all pages. ⚠️ Do not include `<script></script>` tag.
@@ -392,7 +392,7 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 | Recommended aspect ratio          | `16:9`        |
 | Recommended format                | `.jpg`        |
 
-!> You must ensure that all your images have a consistent aspect ratio. This will prevent layout issues such as uneven grid or cropped images.
+!> You must ensure that all your images have a consistent aspect ratio. This will prevent layout issues such as uneven grids or cropped images.
 
 ---
 
@@ -408,19 +408,34 @@ Size for collection featured banner image.
 | Aspect ratio                      | `12:5`        |
 | Recommended format                | `.jpg`        |
 
+
 ## Pages
 
 ### Homepage settings
 To populate your Homepage with content follow the steps below
 
-1. We're in the [Theme editor](#launch-the-editor)
+1. From your Shopify admin, go to `Online Store > Themes`.
+1. Find the theme you want to edit, then click <kbd>Customize</kbd>.
 1. Make sure you're on `Home page` from the top bar drop-down menu
-1. On the left in the `Sections`
-1. Click `Add section` 
-1. Select one of the `Sections` then click `Add`
-1. Repeat until you're happy with how your Home page looks
+1. On the side in the `Sections` click <kbd>(+) Add section</kbd>
+1. Select one of the `Sections` then click <kbd>Add</kbd>
+1. Repeat until you're happy with how your Home page looks like.
+1. <kbd>Save</kbd>
 
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#customize-homepage)
+
+
+### Product page
+Customize your Product page.
+
+1. From your Shopify admin, go to `Online Store > Themes`.
+1. Find the theme you want to edit, then click <kbd>Customize</kbd>.
+1. Open the drop-down menu at the top of the page.
+1. Select `Products > Default product` to load the template in the theme editor.
+1. On the side you can add, remove or rearrange `Sections`
+1. In the `Product information` section you can fine-tune your product page settings.
+1. <kbd>Save</kbd>
+
 
 ### Other pages settings
 In order for pages such as FAQ, Press, Contact, About, etc. to work as intended, you'll need to add the content via `Theme editor`.
