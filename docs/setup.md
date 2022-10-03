@@ -132,6 +132,47 @@ You can create filters for your online store that let customers refine which pro
 - [Shopify Search & Discovery filters](https://help.shopify.com/en/manual/online-store/search-and-discovery/filters)
 
 
+## Translations
+
+Customers all over the world enjoy viewing content in their native language. You can enable multiple languages from your Shopify admin to create separate URLs for your translated content. When customers land on a translated URL, your store automatically shows the translated version if translations exist.
+
+!> Before you begin, make sure your store meets the [requirements for selling in multiple languages](https://help.shopify.com/en/manual/markets/languages#requirements). Except for Shopify Lite, each plan gives you the option to sell in up to 20 languages from a single Shopify store.
+
+### Publish languages
+
+#### step 1: Add and publish languages to online store
+
+1. From your Shopify admin, go to `Settings > Languages`.
+1. Click <kbd>Add Language</kbd>
+1. Choose a language from the drop-down menu, then click <kbd>Add</kbd>.
+1. In Unpublished languages, click <kbd>Publish</kbd> beside the language that you want to make available to customers in your store.
+1. Click <kbd>Save</kbd>.
+
+#### step 2: Assign newly published languages to a market
+
+?> By default, each new market that you create uses your store's default language. You need to assign newly published languages to a market before they become visible to visitors on your online store.
+
+1. From your Shopify admin, go to `Settings > Languages`.
+1. Click <kbd>More actions</kbd> beside the language that you want to add to a market.
+1. Click <kbd>Add to market</kbd>
+1. Click <kbd>Done</kbd>
+
+
+### Available languages
+
+Bullet's storefront was _professionally translated_ into +10 different languages. If the language you are looking for is not available in the list below, you can use Shopify's [Translate & Adapt](https://apps.shopify.com/translate-and-adapt) app.
+
+[Supported languages](https://jsfiddle.net/thagxt/7rfLq9e4/18/embedded/result/dark/ ':include :type=iframe width=100% height=500px')
+
+
+#### External links
+
+- [Translate & Adapt app](https://apps.shopify.com/translate-and-adapt)
+- [Shopify markets](https://help.shopify.com/en/manual/markets)
+- [Localization and translation docs](https://help.shopify.com/en/manual/markets/languages)
+- [Limitations](https://help.shopify.com/en/manual/markets/languages#limitations-of-selling-in-multiple-languages)
+
+
 ## Apps
 Our themes use apps to enhance their functionality. Apps must be installed manually.
 
