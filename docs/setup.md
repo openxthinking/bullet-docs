@@ -115,17 +115,21 @@ By default, OpenThinking themes use the `Main menu` to display links in the them
 
 ### Add filters
 
+You can create filters for your online store that let customers refine which products appear on collection pages and in search results. For example, if you sell watches, you could create filters for brand name, price, dial size, and water resistance.
 
-Storefront filters allow you to set up product filtering on your collection pages. When you enable filtering, customers can filter your products by availability, product type, color, or other options to find the products that interest them the most.
+?> Note: If you used storefront filters prior to _August 16, 2022_, the settings to manage your saved filters moved to the "Shopify Search & Discovery" app. The app has been preinstalled to your admin, so you can continue to edit your filters.
 
+1. Install [Shopify Search & Discovery](https://apps.shopify.com/search-and-discovery) from the Shopify App Store. 
+1. In the `Shopify Search & Discovery` app, go to `Filters` and then click <kbd>Edit filters</kbd>.
+1. Select the filters that you want to make available to your customers.
+1. Optional: Click and drag your filters to reorder them.
+1. <kbd>Save</kbd>
 
-1. From Shopify admin, go to [Online Store > Navigation](https://www.shopify.com/admin/menus?ref=openthinking1).
-1. Scroll down to `Collection and search filters`.
-1. Click `Add filters`.
-1. Select one or more filter options from the list of available filters.
-1. Click `Done` to save your product options.
-1. Click `Save` to update your collection and search filters.
+#### External links
 
+- [Shopify Search & Discovery app](https://apps.shopify.com/search-and-discovery)
+- [Shopify Search & Discovery documentation](https://help.shopify.com/en/manual/online-store/search-and-discovery)
+- [Shopify Search & Discovery filters](https://help.shopify.com/en/manual/online-store/search-and-discovery/filters)
 
 
 ## Apps
