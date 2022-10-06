@@ -28,19 +28,15 @@ In order to disable this behavior, you'll need to follow these steps:
 
 ### Can I remove Shopify footer credits?
 
-Please look at [this guide](snippets#remove-shopify-credits).
+Please have a look at [this guide](snippets#remove-shopify-credits).
 
 ---
 
-### All pages show the same content
+### All pages show the same content!
 This happens because you have customized the General page (Default) template. Here is how to reset it.
  
-1. From `Shopify admin`, go to `Online store → Themes`
-1. Click `Actions → Edit code`
-1. Search for `page.json`
-1. Click on `Recent changes` and select `Original - `
-1. <kbd>Save</kbd>
+Please have a look at [this guide](howto#revert-template).
 
-![Reset default page](/_media/faq-page.json-reset.png "Reset default page")
 
-for more information on how to assign a template to every page, please take a look at this [documentation](howto#templates).
+### How do I assign a template?
+For more information on how to assign a template to every page, please take a look at [this guide](howto#templates).
