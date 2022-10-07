@@ -111,7 +111,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v2.png "Custom header version 2")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) minmax(200px, auto) minmax(200px, auto) } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) minmax(160px, auto) minmax(160px, auto) } }
 ```
 
 
@@ -122,7 +122,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v3.png "Custom header version 3")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(200px, auto) minmax(200px, auto) minmax(0, 1fr) } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(160px, auto) minmax(160px, auto) minmax(0, 1fr) } }
 ```
 
 
@@ -133,7 +133,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v4.png "Custom header version 4")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; border-bottom: var(--globalBorder); padding: var(--padding); border-right: 0!important } }
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center;  padding: var(--padding) } }
 ```
 
 `Desktop and Mobile` Use this code if you want to have the logo and menu centered on two rows on both Desktop and Mobile.
@@ -143,7 +143,7 @@ Change the look of your Header with these snippets.
 <span class="clearfix"></span>
 
 ```css
-#header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; border-bottom: var(--globalBorder); padding: var(--padding); border-right: 0!important } @media(max-width:777px) { #header-grid c.accounts { grid-column: 1/-1; justify-content: center } }
+#header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; padding: var(--padding) } @media(max-width:777px) { #header-grid .accounts { grid-column: 1/-1; justify-content: center } }
 ``` 
 
 
@@ -154,7 +154,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v5.png "Custom header version 5")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid c.bogo { grid-column: 1/-1; justify-content: center; order: 99; border-top: var(--globalBorder); padding: var(--padding); border-right: 0!important } }
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; order: 99;  padding: var(--padding) } }
 ```
 
 ## Add inputs to the contact form
