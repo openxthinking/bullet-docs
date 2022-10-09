@@ -45,4 +45,4 @@ For more information on how to assign a template to every page, please take a lo
 
 ### How to reset theme to default Code
 
-If you want to use a fresh version of our themes, you can return to the theme's page on the [Shopify Theme Store](https://themes.shopify.com/themes?q=OpenThinkin) and install a new version (when logged in). The Theme Store can recognize that you've purchased a theme when you're logged in and will allow you to install a clean copy.
+If you want to use a fresh version of our themes, you can return to the theme's page on the [Shopify Theme Store](https://themes.shopify.com/themes?q=OpenThinking) and install a new version (when logged in). The Theme Store can recognize that you've purchased a theme when you're logged in and will allow you to install a clean copy.
