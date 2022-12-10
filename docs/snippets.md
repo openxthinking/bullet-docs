@@ -157,6 +157,18 @@ Change the look of your Header with these snippets.
 @media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; order: 99;  padding: var(--padding) } }
 ```
 
+
+### Header v6
+
+`Mobile only` Move the menu button to the left and the logo to the center.
+
+![Image square](/_media/snippets-header-v6.jpg "Custom header version 6")
+
+```css
+@media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } }
+```
+
+
 ## Add inputs to the contact form
 
 The optional inputs can be any [HTML input type](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types). They need to have an attribute of `name="contact[information_id]"`, where `information_id` briefly identifies the information that you're collecting. These titles appear in contact notifications and must be unique within the form.
