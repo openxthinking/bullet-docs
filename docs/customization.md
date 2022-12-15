@@ -261,9 +261,9 @@ You can use the image editor to crop your images to have the same aspect ratio. 
 
 #### Image formats
 
-We recommend that you use `JPG` images due to their greater quality over other image formats.
+We recommend that you use `WEBP` or `JPG` images due to their greater quality over other image formats.
 
-Use `PNG` images if you need to have a transparent background.
+Use `PNG` or `WEBP` images if you need to have a transparent background.
 
 #### Image optimization
 
@@ -275,9 +275,13 @@ Luckily, there are FREE minifying tools to optimize your photos and help you fin
 
 Here're 3 online services that will help you optimize your images for FREE: 
 
+1. [Convert jpg to webp](https://convertio.co/jpg-webp/?ref=openthinking)
+1. [Convert png to webp](https://convertio.co/png-webp/?ref=openthinking)
+
+1. [Image optimization](https://kraken.io/web-interface/?ref=openthinking)
+1. [Tiny PNG](https://tinypng.com/?ref=openthinking)
 1. [Image compressor](https://imagecompressor.com/?ref=openthinking)
 1. [Image optimizer](http://www.imageoptimizer.net/Pages/Home.aspx?ref=openthinking)
-1. [Tiny PNG](https://tinypng.com/?ref=openthinking)
 
 #### Image tips
 
@@ -293,6 +297,8 @@ Tips for the perfect image.
 ---
 
 ### Theme image sizes
+
+Please note that while we do provide suggested image sizes, the final size of the image may vary depending on the size of the viewport. In some cases, the images may be cropped in order to fit the box and maintain their aspect ratio.
 
 
 #### Landscape
