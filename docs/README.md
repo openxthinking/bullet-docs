@@ -8,8 +8,7 @@ Bullet is a fast and minimal Shopify theme with a beautiful grid layout. Perfect
 🚀 Here is a suggested __2-step guide__ to get you started with Bullet:
 
 1. [Setup](setup)
-1. [Customize](custom)
-
+1. [Customize](customization)
 
 ### Patches
 🩹 Patches let you fix critical bugs without having to update the whole theme.
