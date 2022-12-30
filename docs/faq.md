@@ -10,6 +10,13 @@ Yes, our themes are built upon [Skelet. by Selekkt.](https://selekkt.dk/skelet/v
 
 Yes, have a look at [this guide](snippets#add-custom-fonts).
 
+
+---
+
+### Is my theme making my store slow?
+
+We answer this and other performance related question in more detail in [this section](speed).
+
 ---
 
 ### Why does text break mid-word?
