@@ -2,6 +2,7 @@
 - [2 - Customize](customization)
 - &nbsp;
 - [![Update](https://icongr.am/clarity/terminal.svg?size=16&color=808080)Update](update)
+- [![Speed](https://icongr.am/clarity/dashboard.svg?size=16&color=808080)Speed](speed)
 - [![FAQ](https://icongr.am/clarity/help-info.svg?size=16&color=808080)FAQ](faq)
 - [![Snippets](https://icongr.am/clarity/code.svg?size=16&color=808080)Snippets](snippets)
 - [![How to](https://icongr.am/clarity/book.svg?size=16&color=808080)How to](howto)
