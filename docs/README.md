@@ -25,17 +25,17 @@ Keeping an eye on [Bullet changelog](changelog) is the best way to stay up to da
 ### Support
 - If you have problems installing/customizing your OpenThinking theme [Contact OpenThinking support](https://openthinking.net/support/)
 - For custom theme features and enhancements request a [FREE QUOTATION](https://openthinking.net/support/)
-- For general questions or problems you can post in the [Shopify community forum](https://community.shopify.com/).
-- For direct contact with [Shopify support](https://help.shopify.com/en/questions#/login)
-
+- For general questions or problems you can post in the [Shopify community forums](https://openthinking.net/go/shopify-community).
+- For direct contact with [Shopify support](https://openthinking.net/go/shopify-support)
+- For Shopify [official documentation](https://openthinking.net/go/shopify-docs)
 
 ### Demo stores
 Visit our demonstration stores and use the documentation to find out how to set up Bullet.
 
-- [Default demo store](https://themes.shopify.com/themes/bullet/styles/default/preview)
-- [Midnight demo store](https://themes.shopify.com/themes/bullet/styles/midnight/preview)
-- [Vision demo store](https://themes.shopify.com/themes/bullet/styles/vision/preview)
-- [Khaki demo store](https://themes.shopify.com/themes/bullet/styles/khaki/preview)
+- [Default demo store](https://openthinking.net/go/bullet1)
+- [Midnight demo store](https://openthinking.net/go/bullet4)
+- [Vision demo store](https://openthinking.net/go/bullet2)
+- [Khaki demo store](https://openthinking.net/go/bullet3)
 
 ---
 

@@ -28,11 +28,11 @@ If you purchase your theme through the official Shopify theme store, you will be
 ### Via Shopify theme store
 A new version message may occasionally not appear in the Shopify admin area. Take these actions if this is the case.
 
-1. Visit the [Shopify Theme Store](https://themes.shopify.com/themes?q=OpenThinking) and click <kbd>Log in</kbd>. 
+1. Visit the [Shopify Theme Store](https://openthinking.net/go/shopify-themes) and click <kbd>Log in</kbd>. 
 ⚠️ It is important to log in to the account that you used to purchase the theme. This will prevent you from being asked to purchase the theme again.
-1. Use the top search bar and search: `OpenThinking` or [click here](https://themes.shopify.com/themes?q=OpenThinking)
+1. Use the top search bar and search: `OpenThinking` or [click here](https://openthinking.net/go/shopify-themes)
 1. From there, select your `OpenThinking` theme.
-1. Click <kbd>Add latest theme version</kbd> or&nbsp; <kbd>Add theme</kbd>
+1. Click <kbd>Add latest theme version</kbd> or <kbd>Add theme</kbd>
 1. This will install a “fresh” copy of the theme in an unpublished state on your store.
 
 
