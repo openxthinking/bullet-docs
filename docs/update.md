@@ -1,8 +1,8 @@
 # Theme updates
 
-!> Theme updates are not supported by OpenThinking support.
+!> Theme updates are not covered by OpenThinking support.
 
-?> When no code changes have been made to your theme (by you or any installed apps) and no new settings have been added, Shopify themes will only update automatically.
+?> When no code changes have been made to your theme (by you or any installed third-party app) and no new settings have been added, Shopify themes will update automatically.
 
 ?> Shopify isn't designed to transfer over certain setups and settings, therefore the only way to get past this is to manually go through and update each setting one by one.
 
@@ -12,7 +12,7 @@
 Obtain the latest theme version.
 
 ### Via Shopify admin
-If you purchase your theme through the official Shopify theme store, you will be notified that a new version is available directly in your Shopify admin area.
+If you purchased your theme via the official Shopify theme store, you will be notified that a new version is available directly in your Shopify admin area.
 
 1. From Shopify admin, go to `Online Store → Themes`
 1. Locate `Bullet`, then click <span style="color:#458FFF;font-size:3rem;line-height:0;position:relative;top:7px">&bull;</span> Bullet version x.y.z available.
@@ -42,12 +42,12 @@ While some basic information, such as your store name, collections, and product 
 ### Theme editor
 ?> This method is recommended. You won't run into errors or incompatibilities.
 
-You will need to go through and manually customize your theme again. Select options such as fonts, colors, and other settings within the Theme editor under <kbd>Customize</kbd> — as well as rebuild any sections on the home page and all other page you use. Treat it like it's a new theme installation.
+You will need to go through and manually customize your theme again. Select options such as fonts, colors, and other settings within the Theme editor under <kbd>Customize</kbd> — as well as rebuild any sections on the home page and all other pages you use. Treat it like it's a new theme installation.
 
 ### File migration
 !> Not recommended. You might run into potential errors and/or incompatibilities.
 
-!> We do not provide support for this method if an error arise.
+!> We do not provide support for this method if an error arises.
 
 This method requires you to copy the code from your old theme's files into your new theme's version files.
 
@@ -60,7 +60,7 @@ This method requires you to copy the code from your old theme's files into your 
 
 #### To new version
 
-1. From `Shopify admin`, locate your theme you installed in [Step 1](#step-1-update)
+1. From `Shopify admin`, locate the theme you installed in [Step 1](#step-1-update)
 1. Go to `Actions → Edit code`
 1. In the `search bar` type `settings_data.json`
 1. Open the file, then `Select` and `delete` all of the code inside
@@ -85,7 +85,7 @@ Bullet
 ## Step 3: Publish
 Test the new theme extensively and make sure everything works as expected. Once you're ready, simply publish the new theme as the main theme.
 
-?> We highly recommend you to not delete the old theme and to keep it two or three months, so that you can always go back to the old one if something bad happen.
+?> We highly recommend you not delete the old theme and keep it for two or three months, so that you can always go back to the old one if something bad happens.
 
 
 ## External links
