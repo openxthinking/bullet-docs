@@ -36,54 +36,7 @@
 1. Delete `{{ powered_by_link }}`
 1. Click <kbd>Save</kbd>
 
-
-
-## Collection page: 2 products per row
-Show 2 products per row instead of 1 on collection pages on `mobile`
-
-!> This is available out-of-the-box in Bullet. v2.1.0 and up
-
-<details>
-	<summary>View screenshots</summary>
-	<img src="/_media/snippets-2col-collection.png" alt="Collection page: 2 products per row" loading="lazy">
-	<img src="/_media/snippets-2col-collection2.png" alt="Collection page: 2 products per row" loading="lazy">
-	<span class="clearfix"></span>
-</details>
-
-1. From Shopify admin, go to `Online Store → Themes` 
-1. Click `Customize`
-1. Open `Theme settings` and scroll to `Custom code`
-1. In the CSS section, paste the following code:
-
-```css
-@media (max-width: 777px) { .products .product, .products .product #ajaxSection[columns-s="1"] { --grid-tc: repeat(2, minmax(0,1fr))!important } .products .product .card:nth-child(odd) { border-right: var(--globalBorder)!important } .products .quickBuy .cartButton, .quickBuy .productSelect { width: calc(100% - var(--padding)); overflow: hidden } .products .product .itsOverlay flex[jc="between"] { flex-direction: column }.products .product .itsOverlay flex c[as="center"] { align-self: flex-start }.product .card.v2 .prodtitle { font-size: 1.3rem }.product .card.v2 a { width: 48.5vw } }
-```
-
-?> OpenThinking recommends disabling `Quick buy` from `Theme settings > Product card` otherwise buttons are cut out or overflow because there isn't enough space.
-
-
-
-## Collection page: 4 or 5 products per row
-Show 4 or 5 products per row instead of 3 on collection pages on `desktop`
-
-!> This is available out-of-the-box in Bullet. v2.1.0 and up
-
-1. From Shopify admin, go to `Online Store → Themes` 
-1. Click `Customize`
-1. Open `Theme settings` and scroll to `Custom code`
-1. In the CSS section, paste the following code:
-
-##### 4 products per row
-
-```css
-@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(4, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(8n+8) { border-right-color: transparent } }
-```
-
-##### 5 products per row
-```css
-@media (min-width: 777px) { .products #ajaxSection[columns="3"] { --grid-tc: repeat(5, minmax(0,1fr)) } .products .product .card:nth-child(3n+3) { border-right-color: var(--globalBorderColor) } .products .product .card:nth-child(5n+5) { border-right-color: transparent } }
-```
-
+?> For all version prior `v4.0.0`. In Bullet `v4` and later you can disable this via theme editor.
 
 ## Custom headers
 Change the look of your Header with these snippets.
@@ -167,6 +120,42 @@ Change the look of your Header with these snippets.
 ```css
 @media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } }
 ```
+
+## Header and footer colors
+Change the colors of your header or footer sections with the following CSS snippets;
+
+<!-- tabs:start -->
+#### **Header**
+
+```css
+:root {
+	--headerBg: #000;
+	--headerColor: #FFF;
+    --linkColor: #FFF;
+    --linkHover: #FFF;
+	--headerBorder: #FFF;
+}
+```
+
+[Where to put this code](howto?id=custom-code)
+
+#### **Footer**
+
+```css
+:root {
+    --footerBg: #000;
+    --footerColor: #FFF;
+    --linkColor: #FFF;
+    --linkHover: #FFF;
+    --footerBorder: #FFF;
+}
+```
+
+[Where to put this code](howto?id=custom-code)
+
+<!-- tabs:end -->
+
+?> These snippets are compatible with Bullet `v3.0.0` and later. [Update your theme](update) to the latest version.
 
 
 ## Add inputs to the contact form
