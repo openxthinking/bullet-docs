@@ -87,6 +87,22 @@ Test the new theme extensively and make sure everything works as expected. Once 
 
 ?> We highly recommend you not delete the old theme and keep it for two or three months, so that you can always go back to the old one if something bad happens.
 
+---
+
+## FAQs
+
+Q: **Why is there no theme update option in my admin area?**
+
+A: Merchants are typically excluded from automatic upgrades when:
+    - The code of the theme has been edited.
+    - A third-party app that modifies the code has been installed.
+    - The upgrade is a major version. (e.g. from `v3.1.0` to `v4.0.0`)
+
+
+Q: **Do I need to start fresh each time there's an update?**
+
+A: It depends. Manual upgrade is required for major version changes, but automatic upgrade is possible for minor version changes that are backwards compatible (subject to the conditions listed above).
+
 
 ## External links
 - [Duplicating themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/duplicating-themes?ref=openthinking1)
