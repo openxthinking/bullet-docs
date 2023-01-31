@@ -110,3 +110,4 @@ A: It depends. Manual upgrade is required for [major version](https://shopify.de
 - [Updating themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/updating-themes?ref=openthinking1)
 - [Customizing themes](https://help.shopify.com/en/manual/online-store/themes/os20/customize/?ref=openthinking1)
 - [Publishing themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/publishing-themes?ref=openthinking1)
+- [More about updates](https://shopify.dev/themes/store/success/updates)
