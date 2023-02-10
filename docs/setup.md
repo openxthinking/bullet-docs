@@ -172,6 +172,56 @@ Bullet's storefront was _professionally translated_ into +10 different languages
 - [Localization and translation docs](https://help.shopify.com/en/manual/markets/languages)
 - [Limitations](https://help.shopify.com/en/manual/markets/languages#limitations-of-selling-in-multiple-languages)
 
+## Search
+
+### Predictive search
+
+With predictive search or search suggestions suggested results appear immediately as you type into the search field. Predictive search helps customers articulate and refine their search queries, and provides new ways for them to explore an online store. It also lets them quickly browse matches without having to leave their current page to see a separate list of search results.
+
+Predictive search supports suggestions for: 
+- products
+- pages
+- articles
+- collections 
+- queries
+
+?> Only the header area supports predictive search.
+
+#### Enable predictive search
+
+1. From Shopify admin, go to `Online Store → Themes`
+1. Click <kbd>Customize</kbd>
+1. Open Theme settings, and scroll to `Search`
+1. From here, check `Enable search suggestions`
+1. <kbd>Save</kbd>
+
+### Search enhancement
+
+Bullet uses Shopify's Search & Discovery app to improve your store's search functionality and tailor the results to your preferences, in accordance with Shopify requirements.
+
+#### Install Search & Discovery
+
+1. You can install [Shopify Search & Discovery](https://apps.shopify.com/search-and-discovery) from the Shopify app store. `for free` 
+
+#### Setup
+
+1. Once you've installed the Search & Discovery app
+1. Go to, `Search & Discovery → Search`
+1. From here you create product boosts and synonym groups to help customers find what they’re looking for and increase your store’s conversion rates.
+
+#### Control search results
+
+1. Once you've installed the Search & Discovery app
+1. Go to, `Search & Discovery → Settings`
+1. From here you can control which type of results appear in your searches. You can control both Predictive search results and normal page results.
+1. <kbd>Save</kbd>
+
+#### External links
+
+- [Shopify Search & Discovery app](https://apps.shopify.com/search-and-discovery)
+- [Shopify Search & Discovery documentation](https://help.shopify.com/en/manual/online-store/search-and-discovery)
+- [Shopify Search & Discovery filters](https://help.shopify.com/en/manual/online-store/search-and-discovery/filters)
+
 
 ## Apps
 Our themes use apps to enhance their functionality. Apps must be installed manually.
@@ -179,5 +229,6 @@ Our themes use apps to enhance their functionality. Apps must be installed manua
 ⚠️ These apps are already integrated/styled with your theme, after the installation you do not have to do anything else except include them where needed.
  
 - "_Shopify product reviews_" app. Install it from [HERE](https://apps.shopify.com/product-reviews?ref=openthinking1&utm_campaign=docs)
+- "_Shopify Search & Discovery_" app. Install it from [HERE](https://apps.shopify.com/search-and-discovery?ref=openthinking1&utm_campaign=docs)
 
 [<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#app-installation)
