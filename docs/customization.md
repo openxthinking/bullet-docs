@@ -130,7 +130,6 @@ This is a built-in Newsletter pop-up. You can control the appearance and its fun
 #### Cookies
 A built-in Cookie banner. You can control the appearance and its functions.
 
-
 For this banner to work, you need to first activate `Customer privacy` through Shopify admin.
 
 1. From Shopify admin, go to [Online store > Preferences](https://www.shopify.com/admin/online_store/preferences)
@@ -138,7 +137,13 @@ For this banner to work, you need to first activate `Customer privacy` through S
 1. Click `Activate` in the GDPR block.
 1. Click `Save`
 
-?> This cookie banner is not fully GDPR compliant. For a more robust GDPR/CCPA solution consider an [app](https://apps.shopify.com/search?q=GDPR+cookies+banner&pricing=free&sort_by=installed&ref=openthinking1#AccordionItem16).
+Then enable the cookie banner to show in your website.
+
+1. From Shopify admin, go to Online store > Themes 
+1. Click <kbd>Customize</kbd>
+1. From here, in the bar on the left scroll to the end and look for "Cookies".
+1. Enable click to enable the banner.
+1. Click `Save`
 
 ---
 #### Analytics
