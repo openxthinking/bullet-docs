@@ -145,6 +145,7 @@ Change the colors of your header or footer sections with the following CSS snipp
 :root {
     --footerBg: #000;
     --footerColor: #FFF;
+    --colorHeadings: #FFF;
     --linkColor: #FFF;
     --linkHover: #FFF;
     --footerBorder: #FFF;
