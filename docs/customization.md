@@ -317,7 +317,7 @@ Typically used for banner images shown at full-screen width.
 |-|-|
 | Minimum size (Width x Height)     | `2000x1125px` |
 | Recommended aspect ratio          | `16:9`        |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 ---
 
@@ -333,7 +333,7 @@ Typically used for banner images shown side by side in multiple columns.
 | Minimum size (Width x Height)     | `800x1422px`  |
 | Recommended size                  | `1080x1920px` |
 | Recommended aspect ratio          | `9:16`        |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 ?> Make sure to use a consistent aspect ratio for all the images of a particular type to make them display better side by side.
 
@@ -347,10 +347,10 @@ Typically used for **Blog featured image, Reviews**
 
 | | |
 |-|-|
-| Minimum size (Width x Height)     | `800x1422px`  |
-| Recommended size                  | `1080x1920px` |
+| Minimum size (Width x Height)     | `900x900px`  |
+| Recommended size                  | `1080x1080px` |
 | Recommended aspect ratio          | `1:1`         |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 ---
 
@@ -364,7 +364,7 @@ Typically used for **Header logo, Logo list, Press page**
 |-|-|
 | Minimum size (Width x Height)     | `400x250px` |
 | Recommended aspect ratio          | `16:9`      |
-| Recommended format                | `.png`      |
+| Recommended format                | `.webp` or `.png` |
 
 ---
 
@@ -381,7 +381,7 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 |-|-|
 | Minimum size (Width x Height)     | `1080x1920px` |
 | Recommended aspect ratio          | `9:16`        |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 
 ##### for Square
@@ -390,9 +390,9 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 
 | | |
 |-|-|
-| Minimum size (Width x Height)     | `900x900px`   |
+| Minimum size (Width x Height)     | `1080x1080px`   |
 | Recommended aspect ratio          | `1:1`         |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 
 ##### for Landscape
@@ -401,7 +401,7 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 |-|-|
 | Minimum size (Width x Height)     | `1080x607px`  |
 | Recommended aspect ratio          | `16:9`        |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 !> You must ensure that all your images have a consistent aspect ratio. This will prevent layout issues such as uneven grids or cropped images.
 
@@ -417,7 +417,7 @@ Size for collection featured banner image.
 |-|-|
 | Minimum size (Width x Height)     | `1200x500px`  |
 | Aspect ratio                      | `12:5`        |
-| Recommended format                | `.jpg`        |
+| Recommended format                | `.webp` or `.jpg` |
 
 
 ## Pages
