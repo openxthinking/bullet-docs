@@ -18,6 +18,7 @@ Bullet is a fast and minimal Shopify theme with a beautiful grid layout. Perfect
 🩹 Patches let you fix critical bugs without having to update the whole theme.
 
 !> [Fix for v4.0](https://gist.github.com/openxthinking/77e2db762a0d30f5ff34d183eaede45d)
+
 !> [Reset password page](https://gist.github.com/openxthinking/651b0862be22098ebca4376d967b67a9)
 
 ### What's new?
