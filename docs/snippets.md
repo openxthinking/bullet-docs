@@ -7,8 +7,8 @@
 !> The font files must include the WOFF and WOFF2 file types (EOT, TTF, and OTF are not Webfont file types).
 
 #### Step 1: Upload font
-1. From Shopify admin, go to `Settings → Files`
-1. Click `Upload files` and select all your font files
+1. From Shopify admin, go to `Content → Files`
+1. Click <kbd>Upload files</kbd> and select all your font files
 1. Keep this page open since you'll need the URLs in `Step 2`
 
 
@@ -16,6 +16,7 @@
 1. From Shopify admin, go to `Online Store → Themes` click `Actions` then `Edit Code`.
 1. Search for `global-fonts` under `snippets` and open the file.
 1. Use OpenThinking [@font-face generator](https://openthinking.app/x/font-face-generator/) to generate the needed code
+1. Once you have created the needed code, paste it into the `global-fonts` file.
 1. When you're done click <kbd>Save</kbd>
 
 
