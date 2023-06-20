@@ -27,7 +27,7 @@
 1. Click `Enable custom fonts`
 1. Done
 
-
+[<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#custom-fonts)
 
 ## Remove Shopify credits
 
