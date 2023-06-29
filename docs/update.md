@@ -19,7 +19,7 @@ If you purchased your theme via the official Shopify theme store, you will be no
 
 ![Update theme](/_media/update_admin_notification_new_version.png "Update theme")
 
-1. Click <kbd>Add to theme library</kbd>
+1. Click <kbd class="grey">Add to theme library</kbd>
 1. This will install a “fresh” copy of the theme in an unpublished state on your store. 
 
 
@@ -37,7 +37,7 @@ A new version message may occasionally not appear in the Shopify admin area. Tak
 
 
 ## Step 2: Set up
-While some basic information, such as your store name, collections, and product names will appear in this version if you preview it using the <kbd>actions</kbd> menu for the unpublished version, you’ll likely notice that your theme is in its default state.
+While some basic information, such as your store name, collections, and product names will appear in this version if you preview it using the <kbd class="grey">•••</kbd> (Actions) menu for the unpublished version, you’ll likely notice that your theme is in its default state.
 
 ### Theme editor
 ?> This method is recommended. You won't run into errors or incompatibilities.
