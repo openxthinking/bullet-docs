@@ -31,42 +31,50 @@
     <link rel="icon" type="image/png" sizes="16x16" href="https://i0.wp.com/openthinking.net/favicon.png?w=16&h=16">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css">
 
-  <style>
-    :root {
-        --base-background-color: #131B1D;
-        --sidebar-background: #131B1D;
-        --globalBorder: 10px;
-        --code-inline-border-radius: var(--globalBorder);
+<style>
+:root {
+  --base-background-color: #131B1D;
+  --sidebar-background: #131B1D;
+  --globalBorder: 10px;
+  --code-inline-border-radius: var(--globalBorder);
 
-        --kbd-background: rgb(0 128 92 / 1);
-        --kbd-margin: 1px;
-    }
+  --kbd-background: rgb(0 128 92 / 1);
+  --kbd-margin: 1px;
 
-    kbd.grey {
-        --kbd-background: #fff;
-        --kbd-color: #1f2124;
-        --kbd-border: 1px solid #abb1ba;
-    }
+  --sidebar-toggle-border-radius: 100vw;
+  --sidebar-toggle-height: 2rem;
+  --sidebar-toggle-offset-top: 1.5rem;
+  --sidebar-toggle-offset-left: 1.5rem;
+}
 
-    * { scrollbar-width: auto; scrollbar-color: #63696C #1F282D }
-    *::-webkit-scrollbar { width: 15px }
-    *::-webkit-scrollbar-track { background: #1F282D }
-    *::-webkit-scrollbar-thumb { background-color: #63696C; border-radius: 20px; border: 3px solid #1F282D }
+kbd.grey {
+    --kbd-background: #fff;
+    --kbd-color: #1f2124;
+    --kbd-border: 1px solid #abb1ba;
+}
 
-    .markdown-section .tip, 
-    .markdown-section .warn,
-    .markdown-section blockquote { border-radius: var(--globalBorder) }
+* { scrollbar-width: auto; scrollbar-color: #63696C #1F282D }
+*::-webkit-scrollbar { width: 15px }
+*::-webkit-scrollbar-track { background: #1F282D }
+*::-webkit-scrollbar-thumb { background-color: #63696C; border-radius: 20px; border: 3px solid #1F282D }
 
-    img { border-radius: var(--globalBorder) }
+.markdown-section .tip, 
+.markdown-section .warn,
+.markdown-section blockquote { border-radius: var(--globalBorder) }
 
-    #main img { border-radius: var(--globalBorder) }
-    #main img[alt$=">"] { float: right; width: 49% }
-    #main img[alt$="<"] { float: left; width: 49% }
-    #main img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
-    .clearfix:after { content: ""; display: table; clear: both }
+img { border-radius: var(--globalBorder) }
 
-    @media (max-width: 700px) { .markdown-section { padding-inline: 15px } }
-  </style>
+#main img { border-radius: var(--globalBorder) }
+#main img[alt$=">"] { float: right; width: 49% }
+#main img[alt$="<"] { float: left; width: 49% }
+#main img[alt$="><"] { display: block; max-width: 100%; height: auto; margin: auto; float: none!important; }
+.clearfix:after { content: ""; display: table; clear: both }
+
+.sidebar-toggle-button { transition: 500ms; padding: 1.2rem }
+.sidebar-toggle-button:hover { transform: scale(1.2) }
+
+@media (max-width: 700px) { .markdown-section { padding-inline: 15px } }
+</style>
 </head>
 <body>
   <div id="app"></div>
@@ -118,7 +126,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
-  <script src="https://unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
 
   <script type="text/javascript">!function(e,t,a,n,c,m,r){e.ym=e.ym||function(){(e.ym.a=e.ym.a||[]).push(arguments)},e.ym.l=1*new Date,m=t.createElement(a),r=t.getElementsByTagName(a)[0],m.async=1,m.src="https://mc.yandex.ru/metrika/tag.js",r.parentNode.insertBefore(m,r)}(window,document,"script"),ym(87490716,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script><noscript><div><img src="https://mc.yandex.ru/watch/87490716" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 

@@ -187,6 +187,8 @@ Predictive search supports suggestions for:
 
 ?> Only the header area supports predictive search.
 
+?> Shopify currently does not support the predictive search function for all languages.
+
 #### Enable predictive search
 
 1. From Shopify admin, go to `Online Store → Themes`
