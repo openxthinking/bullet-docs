@@ -82,13 +82,18 @@ Add links to your social media profiles. These usually show inside the footer or
 
 ---
 #### Breadcrumbs
-Show a breadcrumbs bar underneath the header.
+1. Breadcrumbs have a fixed structure and do not adapt to the user's navigational history, therefore they cannot show the previous page the user visited.
 
+2. Since it's not possible to designate a primary collection for a product in Shopify, the first collection listed in alphabetical order will be displayed on product pages when multiple collections are present.
+
+3. On product pages, you can select either "**Collection**" or "**Vendor**" as the parent category for the product.
+
+#### Activate
 1. From `Shopify admin`, go to `Online store > Theme`
-1. Click `Customize`
+1. Click <kbd>Customize</kbd>
 1. Click `Theme settings` then `Breadcumbs`
-1. Toggle `Enable` to Enable/disable breadcrumbs. 
-1. `Save` 
+1. Toggle `Enable` to enable/disable breadcrumbs. 
+1. <kbd>Save</kbd>
 
 ---
 ### Product card
