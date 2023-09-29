@@ -159,6 +159,23 @@ Change the colors of your header or footer sections with the following CSS snipp
 
 ?> These snippets are compatible with Bullet `v3.0.0` and later. [Update your theme](update) to the latest version.
 
+## Header sale link appearance
+To change the appearance of a "Sale" link in your header.
+
+1. Make sure the page URL contains the word `sale` in English. 
+For example, `/collections/sale` would work. `/collections/discounts` would not trigger the style change.
+
+2. Add a style rule that targets anchor tags `<a>` with a href attribute that contains `sale`:
+
+```css
+#header a[href*="sale"] { font-weight: bold; color: red }
+```
+
+3. You can customize which word triggers the style by replacing `sale` in the CSS rule above. For example, to target `clearance` instead:
+
+```css 
+#header a[href*="clearance"] { color: red }
+```
 
 ## Add inputs to the contact form
 
