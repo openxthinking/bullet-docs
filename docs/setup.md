@@ -160,7 +160,7 @@ Customers all over the world enjoy viewing content in their native language. You
 
 ### Available languages
 
-Bullet's storefront was _professionally translated_ into +10 different languages. If the language you are looking for is not available in the list below, you can use Shopify's [Translate & Adapt](https://apps.shopify.com/translate-and-adapt) app.
+Bullet's storefront was _professionally translated_ into +12 different languages. If the language you are looking for is not available in the list below, you can use Shopify's [Translate & Adapt](https://apps.shopify.com/translate-and-adapt) app.
 
 [Supported languages](https://jsfiddle.net/thagxt/7rfLq9e4/18/embedded/result/dark/ ':include :type=iframe width=100% height=500px')
 
@@ -169,8 +169,10 @@ Bullet's storefront was _professionally translated_ into +10 different languages
 
 - [Translate & Adapt app](https://apps.shopify.com/translate-and-adapt)
 - [Shopify markets](https://help.shopify.com/en/manual/markets)
+- [Manage languages](https://help.shopify.com/en/manual/markets/languages/manage-languages)
 - [Localization and translation docs](https://help.shopify.com/en/manual/markets/languages)
 - [Limitations](https://help.shopify.com/en/manual/markets/languages#limitations-of-selling-in-multiple-languages)
+
 
 ## Search
 
