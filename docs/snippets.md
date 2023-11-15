@@ -129,7 +129,7 @@ Change the colors of your header or footer sections with the following CSS snipp
 #### **Header**
 
 ```css
-:root {
+.main-header header {
 	--headerBg: #000;
 	--headerColor: #FFF;
     --linkColor: #FFF;
@@ -143,7 +143,7 @@ Change the colors of your header or footer sections with the following CSS snipp
 #### **Footer**
 
 ```css
-:root {
+.main-footer footer {
     --footerBg: #000;
     --footerColor: #FFF;
     --colorHeadings: #FFF;
@@ -162,10 +162,9 @@ Change the colors of your header or footer sections with the following CSS snipp
 ## Header sale link appearance
 To change the appearance of a "Sale" link in your header.
 
-1. Make sure the page URL contains the word `sale` in English. 
-For example, `/collections/sale` would work. `/collections/discounts` would not trigger the style change.
+1. Make sure the page URL contains the word `sale` in English. For example, `/collections/sale` would work. `/collections/discounts` would not trigger the style change.
 
-2. Add a style rule that targets anchor tags `<a>` with a href attribute that contains `sale`:
+2. Add the CSS rule to target your link's URL:
 
 ```css
 #header a[href*="sale"] { font-weight: bold; color: red }
