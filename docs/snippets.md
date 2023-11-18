@@ -119,7 +119,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v6.jpg "Custom header version 6")
 
 ```css
-@media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } }
+@media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } #header-grid ul.inline { flex-wrap:nowrap } }
 ```
 
 ## Header and footer colors
