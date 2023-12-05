@@ -321,7 +321,7 @@ Tips for the perfect image.
 
 ### Theme image sizes
 
-Please note that while we do provide suggested image sizes, the final size of the image may vary depending on the size of the viewport. In some cases, the images may be cropped in order to fit the box and maintain their aspect ratio.
+?> Please be aware that although we provide recommended image dimensions, the actual rendered size of images may differ based on the viewport size. To fit the allotted boxes, images may sometimes be cropped to maintain their aspect ratio. Please leave enough blank space around the main subject in your images to account for potential cropping.
 
 
 #### Landscape
