@@ -164,6 +164,12 @@ Bullet's storefront was _professionally translated_ into +12 different languages
 
 [Supported languages](https://jsfiddle.net/thagxt/7rfLq9e4/18/embedded/result/dark/ ':include :type=iframe width=100% height=500px')
 
+### RTL support
+Bullet recognizes RTL languages automatically and has been adapted to work with RTL languages to some extent. 
+
+However, we cannot guarantee full compatibility or that everything will display properly in RTL. Additional code changes may be needed from a third-party developer. 
+
+!> We do not provide technical support for any problems that may be encountered in RTL languages. We welcome feedback on RTL language functionality in order to improve support in future updates. However, full RTL support is not guaranteed or part of our official roadmap at this time. Use Bullet with RTL languages at your own risk.
 
 #### External links
 
