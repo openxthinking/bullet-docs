@@ -84,29 +84,26 @@ Add links to your social media profiles. These usually show inside the footer or
 #### Breadcrumbs
 Breadcrumbs have a fixed structure and do not adapt to the user's navigational history, therefore they cannot show the previous page the user visited.
 
-
 #### Activate
-1. From `Shopify admin`, go to `Online store > Theme`
+1. From `Shopify admin`, go to `Online store > Themes`
 1. Click <kbd>Customize</kbd>
 1. Click `Theme settings` then `Breadcumbs`
-1. Toggle `Enable` to enable/disable breadcrumbs. 
+1. Toggle `Enable` to enable/disable breadcrumbs.
+1. For product's Parent category; you have the option to select between "**Collection**", "**Collection-aware**", or "**Vendor**".
 1. <kbd>Save</kbd>
 
-
-On product pages, you can select either "**Collection**", "**Collection-aware**" or "**Vendor**" as the parent category for the product.
-
 #### Vendor
-This will display the product's vendor, instead of the collection.
+This will display the product's vendor, instead of a collection.
 
 #### Collection
-Since it's not possible to designate a primary collection for a product in Shopify, the first collection listed in alphabetical order will be displayed on product pages when the product is assigned to multiple collections.
+Because Shopify does not allow you to specify a primary collection for a product, the first collection listed in alphabetical order will appear on product pages when the product is assigned to several collections.
 
 #### Collection-aware
-This option allows you to override the default behavior of showing the first collection listed in alphabetical order, and show the specific collection that the user navigated from. Keep in mind that this only works if the user is coming from a  collection or has the collection in the URL of the product.
+This option overrides the usual behavior of showing the first collection listed in alphabetical order and instead displays the exact collection from which the user navigated from to the product page. This only works if the user is coming from a collection or the collection is included in the product's URL.
 
 !> **Using the "Collection-aware" option may lead to SEO issues**.<br><br>
-    When a product is listed in multiple collections, we automatically include a canonical URL on the product page, directing search engines to the original product page. This assists search engines in recognizing the primary product page and indexing it, reducing the risk of _duplicate content issues_.</br><br>
-    However, it's important to understand that this does not guarantee that search engines will always prioritize the preferred page version. In certain instances, search engines might disregard the canonical tag and index an alternative page version, potentially resulting in duplicated content problems.
+    When a product is included in numerous collections, we automatically add a canonical URL to the product page that directs search engines to the original product page. This helps search engines recognize and index the principal product page, lowering the possibility of duplicate content issues.</br><br>
+    However, it is crucial to note that this does not imply that search engines will always rank the desired page version. In some cases, search engines may ignore the canonical tag and index an other page version, potentially resulting in duplicate content issues.
 
 ---
 ### Product card
