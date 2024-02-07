@@ -157,6 +157,16 @@ Customers all over the world enjoy viewing content in their native language. You
 1. Click <kbd>Add to market</kbd>
 1. Click <kbd>Done</kbd>
 
+#### step 3: Language selector
+
+To display the Language and Country selectors, make sure the `Selectors` block is added to the `Sub-footer` section.
+
+1. From Shopify admin, go to `Online store > Themes`
+1. Click on <kbd>Custmoize</kbd>
+1. Then scroll to the `Sub-footer` section.
+1. Click <kbd>(+) Add block</kbd>, then select the `Selectors` block.
+1. <kbd>Save</kbd>
+
 
 ### Available languages
 
