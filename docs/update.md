@@ -81,6 +81,7 @@ Bullet
 
 ![Update theme](/_media/update_edited_template_files.png "Update theme")
 
+[<img src="/_media/vta.svg" alt="Video tutorial" width=150>](video#update)
 
 ## Step 3: Publish
 Test the new theme extensively and make sure everything works as expected. Once you're ready, simply publish the new theme as the main theme.
