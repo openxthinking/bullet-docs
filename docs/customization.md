@@ -333,6 +333,7 @@ Typically used for banner images shown at full-screen width.
 | Minimum size (Width x Height)     | `2000x1125px` |
 | Recommended aspect ratio          | `16:9`        |
 | Recommended format                | `.webp` or `.jpg` |
+| Download example image            | [Download](https://www.dropbox.com/scl/fi/fvj3b954qpff0sq2kysn5/bullet-hero-banner.psd?rlkey=tuf9fryxtdumbavsy2s24cxkm&e=1&dl=0) |
 
 ---
 
@@ -397,6 +398,7 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 | Minimum size (Width x Height)     | `1080x1920px` |
 | Recommended aspect ratio          | `9:16`        |
 | Recommended format                | `.webp` or `.jpg` |
+| Download example image            | [Download](https://www.dropbox.com/scl/fi/lo8r3si17uvr07erk5mj9/bullet-product-image.psd?rlkey=j5a73c0i43rpzs9ibfuvdnqm1&dl=0) |
 
 
 ##### for Square
@@ -408,15 +410,17 @@ Depending on the `Product card` aspect ratio you chose, located the right table.
 | Minimum size (Width x Height)     | `1080x1080px`   |
 | Recommended aspect ratio          | `1:1`         |
 | Recommended format                | `.webp` or `.jpg` |
+| Download example image            | [Download](https://www.dropbox.com/scl/fi/1vkoadwn6y7i9q4wmjj5n/bullet-product-image.-square.psd?rlkey=794ygz9oancdwgv70lrkvsbf8&dl=0) |
 
 
 ##### for Landscape
 
 | | |
 |-|-|
-| Minimum size (Width x Height)     | `1080x607px`  |
+| Minimum size (Width x Height)     | `1280x720px`  |
 | Recommended aspect ratio          | `16:9`        |
 | Recommended format                | `.webp` or `.jpg` |
+
 
 !> You must ensure that all your images have a consistent aspect ratio. This will prevent layout issues such as uneven grids or cropped images.
 
