@@ -139,27 +139,6 @@ Product cards are used in pages such as `collections` and `related prodcuts`.
 #### Newsletter
 This is a built-in Newsletter pop-up. You can control the appearance and its functions.
 
-
-
----
-#### Cookies
-A built-in Cookie banner. You can control the appearance and its functions.
-
-For this banner to work, you need to first activate `Customer privacy` through Shopify admin.
-
-1. From Shopify admin, go to [Online store > Preferences](https://www.shopify.com/admin/online_store/preferences)
-1. Scroll to `Customer privacy` 
-1. Click `Activate` in the GDPR block.
-1. Click `Save`
-
-Then enable the cookie banner to show in your website.
-
-1. From Shopify admin, go to Online store > Themes 
-1. Click <kbd>Customize</kbd>
-1. From here, in the bar on the left scroll to the end and look for "Cookies".
-1. Enable click to enable the banner.
-1. Click `Save`
-
 ---
 #### Analytics
 In this section, you can add your Pinterest pixel, TikTok pixel, and Other pixels and trackers.
