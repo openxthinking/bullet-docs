@@ -143,7 +143,7 @@ Change the colors of your header or footer sections with the following CSS snipp
 #### **Footer**
 
 ```css
-.main-footer footer {
+[class*="group-footer"] {
     --footerBg: #000;
     --footerColor: #FFF;
     --colorHeadings: #FFF;
