@@ -54,7 +54,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v1.png "Custom header version 1")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(100px, auto) minmax(0, 1fr) auto } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(100px, auto) minmax(0, 1fr) auto } header .accounts { container: unset } }
 ```
 
 
@@ -65,7 +65,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v2.png "Custom header version 2")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) minmax(160px, auto) minmax(160px, auto) } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(0, 1fr) minmax(160px, auto) minmax(160px, auto) } header .accounts { container: unset } }
 ```
 
 
@@ -76,7 +76,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v3.png "Custom header version 3")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: minmax(160px, auto) minmax(160px, auto) minmax(0, 1fr) } }
+@media(min-width:777px) { #header-grid { --grid-tc: minmax(160px, auto) minmax(160px, auto) minmax(0, 1fr) } header .accounts { container: unset } }
 ```
 
 
@@ -87,7 +87,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v4.png "Custom header version 4")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center;  padding: var(--padding) } }
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center;  padding: var(--padding) } header .accounts { container: unset } }
 ```
 
 `Desktop and Mobile` Use this code if you want to have the logo and menu centered on two rows on both Desktop and Mobile.
@@ -97,7 +97,7 @@ Change the look of your Header with these snippets.
 <span class="clearfix"></span>
 
 ```css
-#header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; padding: var(--padding) } @media(max-width:777px) { #header-grid .accounts { grid-column: 1/-1; justify-content: center } }
+#header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; padding: var(--padding) } @media(max-width:777px) { #header-grid .accounts { grid-column: 1/-1; justify-content: center; container: unset } }
 ``` 
 
 
@@ -108,7 +108,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v5.png "Custom header version 5")
 
 ```css
-@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; order: 99;  padding: var(--padding) } }
+@media(min-width:777px) { #header-grid { --grid-tc: repeat(2, minmax(0,1fr)) } #header-grid .bogo { grid-column: 1/-1; justify-content: center; order: 99;  padding: var(--padding) } header .accounts { container: unset } }
 ```
 
 
@@ -119,7 +119,7 @@ Change the look of your Header with these snippets.
 ![Image square](/_media/snippets-header-v6.jpg "Custom header version 6")
 
 ```css
-@media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } #header-grid ul.inline { flex-wrap:nowrap } }
+@media(max-width:777px){ #header-grid { --grid-tc:repeat(3, minmax(0,1fr)) } #header-grid .bogo { order:2; text-align:center; justify-content:center } #header-grid .accounts { order:3 } #header-grid .large-only.menulink { order:1; display:block!important; opacity:0; pointer-events:none } #header-grid .small-only.hamburger { position:absolute; left:0; padding-left:var(--padding) } #header-grid ul.inline { flex-wrap:nowrap } header .accounts { container: unset } }
 ```
 
 ## Header and footer colors
